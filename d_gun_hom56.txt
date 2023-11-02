@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I would strongly oppose allowing teachers and school officials to carry guns in k-12 schools because guns should not and are not allowed on educational properties. Guns do not belong in schools and the way to prevent gun violenece is not with more guns, but with more laws and policy to end the spread of gun sales.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1020_A",
+	"responseid1" : "R_3m50X6bllaDD1GC",
+	"name_arg2" : "While I can understand why having guns in the school will give peace of mind and protection for our youth and their caretakers, this would create another dangerous issue. How many videos are seen these days of teachers and students getting into physical altercations. Now imagine if their was a gun within reaching distance. You can look at road rage circumstances for example, small altercations quickly blow up into shots being fired. Teachers and students are simply too emotionally involved to have access to such a weapon",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1668_A",
+	"responseid2" : "R_2zSb5ZTN6bq8jsI",
+	"name_arg3" : "1. Guns are generally terrifying. I can’t trust my teachers to be unbiased and not feel “threatened” by me because of stereotypes they could have about me due to my race and gender. Knowing that they have guns would scare me to even slightly tick them off because what if they lose it on me for some reason. I don’t want to die because their coffee wasn’t great today and I asked a “dumb” question",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1228_A",
+	"responseid3" : "R_1dmhoIA2BHEu0iW",
+	"name_arg4" : "It can be argued that the idea of school officials and teachers having guns creates unsafe opportunities and allows for less strict gun control. However, allowing these people specifically to carry small, concealed firearms, for example, can actually serve as a preventative measure in stopping school-related shootings and homicides in and around school areas. I go to a university where there was a recent shooting, and I know for a fact that this shooting could have been thwarted or stopped if officials were allowed to carry firearms. I am certain this could also be the case in K-12 schools, where potentially threatening individuals are more likely to be.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1469_B",
+	"responseid4" : "R_3MEvKQnh7s9cJMJ"
+}

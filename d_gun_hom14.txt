@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Teachers and school officials should not be given the responsibility of possessing guns with the intention of defense if a threat should impose on campus. Firing a gun at a threat is outside the scope of what a teacher signs up for. Possessing a gun around numerous minors adds another level of pressure onto teachers and faculty. What if a student were to steal the firearm, the teacher or faculty member would most likely be assumed reliable for the theft.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1330_A",
+	"responseid1" : "R_28RGyLrJXxbjGbx",
+	"name_arg2" : "Putting guns in more under-qualified people's hands is a colossal mistake. WIthout proper training and procedures, carrying a firearm could put more students and faculty at risk. Having weapons available in each classroom could lead to more shootings happening in schools as there would be plentiful access to these guns.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1242_A",
+	"responseid2" : "R_ehNlx7oPHhci7cJ",
+	"name_arg3" : "Guns should not be allowed in schools, period. Having guns in the classroom would only leave the possibility for incidents involving these guns open, which is the opposite goal of everyone. Schools should be a place to foster learning and creativity, and having guns in the classroom would likely make many students and teachers nervous, and intensive training would also be required to ensure that teachers and school officials were well-trained on how to use the weapons.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1265_B",
+	"responseid3" : "R_vZIjnJHvAE2SklH",
+	"name_arg4" : "Most school shooters are students and would be on campus with guns every day if this is the case. Most teachers would not be able to stop an aggressive student attempting to take their gun. I think guns on campus would not raise safety but raise paranoia. Teachers are not trained to be professionals with firearms, and they shouldn't have to be.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1490_A",
+	"responseid4" : "R_24cjSSU8sBNcjes"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Teachers and school officials should absolutely not be allowed to carry guns in K-12 schools. Imagine all of the issues we have now in our education system: racism, sexism, etc. If a teacher was having a bad day, and believe me I've seen some of my teachers have extremely bad days, what's to stop a psychotic break and let all chaos run loose. Additionally, it is preposterous to place a gun within the grasp of a child, especially those in elementary school. Truly anything could happen and this approach is not even slapping a bandaid over a bullet wound, its an approach that would rip that bullet wound even wider and deeper if implemented.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1292_A",
+	"responseid1" : "R_2fvonDsKEoaZbHr",
+	"name_arg2" : "Providing teachers with guns on my further diminishes gun control, which is something detrimental that America already lacks. Giving teachers guns would decentivize the teachers we actually need in the system and incentivize those who want guns to became teachers. No teacher needs a gun. This only provides more of a threat for children who are already being failed by the system.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1750_A",
+	"responseid2" : "R_3dXPzqNGo3Hrdhz",
+	"name_arg3" : "I strongly oppose allowing teachers and school officials to carry guns in K-12 schools for several compelling reasons. Mainly, the primary role of educators and school staff is to provide a safe and nurturing learning environment for students. Introducing firearms into this equation poses the risk of accidents, confusion, and undue stress on educators who should focus on teaching. Moreover, arming teachers can have adverse psychological effects on students, making them feel unsafe and potentially damaging the teacher-student relationship, which should be built on trust and mentorship rather than fear. Law enforcement and security personnel are better equipped to handle potentially dangerous situations, and investing in professional security measures and mental health support for students and staff is a more effective and responsible approach to ensuring school safety. This way, we can maintain the sanctity of our educational environments while addressing safety concerns through the appropriate channels.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1628_A",
+	"responseid3" : "R_3QLU8GuWvrRoAmF",
+	"name_arg4" : "I've never believed that fighting fire with fire is a viable option for creating harmony. Gun violence has become a nationwide fear, especially in our schools. Recently, school campuses have become breeding grounds for targeted attacks on innocent individuals. The security of campuses is entirely lacking, which I agree with. However, placing another opportunity for physical harm in the hands of superiors is not a viable solution to this problem. Any impact on gun violence in our nation will be done through preventative measures, not reactionary ones. Giving arms to teachers, even if they are certified, will also open up the opportunity for even more tragedies at the hands of bad individuals. As far as schools, no one functioning within them should have the opportunity to seriously injure others. There will always be people in this world who want to do seriously awful things, but any momentary defense won't solve the problem, it will only further perpetrate the action at hand.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1326_A",
+	"responseid4" : "R_1RgGMFzLIhlnfq1"
+}

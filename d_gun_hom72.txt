@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Having armed teachers in schools is likely one of the most dangerous things that could happen. If teachers are allowed access to weaponry without the necessary safety protocols to go along with them, these teachers are becoming equally as dangerous as anyone they'd be protecting from. Also, this puts very dangerous weaponry in very close proximity to the children being taught. This could put students at risk if other students decide to take advantage of the weapons and create chaos.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1603_B",
+	"responseid1" : "R_3RykDkP4C0Ac0NP",
+	"name_arg2" : "Most school shooters are students and would be on campus with guns every day if this is the case. Most teachers would not be able to stop an aggressive student attempting to take their gun. I think guns on campus would not raise safety but raise paranoia. Teachers are not trained to be professionals with firearms, and they shouldn't have to be.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1490_A",
+	"responseid2" : "R_24cjSSU8sBNcjes",
+	"name_arg3" : "I am anti-gun. I am aware of the violence of guns at school, but as a student I not only feel more unsafe being around guns, but I feel so extremely uncomfortable. Even if that gun is for our protection, it feels wrong and makes me feel more scared at school.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1014_A",
+	"responseid3" : "R_ddpgz8qqmAOmnfj",
+	"name_arg4" : "The only reason that an educator would need a gun would be to protect themselves and their students from other guns. So instead of fueling fire with fire, we should aim to get to the root of the problem - unregulated access to firearms. With comprehensive gun laws and thorough background checks there would be no other reason why a teacher would need a gun in a K-12 school.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1152_A",
+	"responseid4" : "R_9mlWe7zazLsVRV7"
+}

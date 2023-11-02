@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I think that no individual besides a trusted police officer should be able to have a gun on school grounds. Teachers can bring them even if there is a policy stopping them but I think that allowing it could cause more trouble. For example, if a teacher got mad at a student and pulled the gun out in their moment of anger. It’s overall safer to not have them on school grounds.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1700_A",
+	"responseid1" : "R_2rI8ZYcICVYQFBd",
+	"name_arg2" : "I am anti-gun. I am aware of the violence of guns at school, but as a student I not only feel more unsafe being around guns, but I feel so extremely uncomfortable. Even if that gun is for our protection, it feels wrong and makes me feel more scared at school.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1014_A",
+	"responseid2" : "R_ddpgz8qqmAOmnfj",
+	"name_arg3" : "I think having K-12 teachers carrying guns is an accident waiting to happen. How do we know that a teacher won't have a mental break down and start shooting at the kids. What if a child gets a hold of the gun and starts shooting not only the teachers but the students as well. Furthermore, this can cause students to be scared to be at school or make it seem that it is normal for people to carry guns to school.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1491_B",
+	"responseid3" : "R_1JK4vvpCszt45AQ",
+	"name_arg4" : "Teachers and school officials should not be given the responsibility of possessing guns with the intention of defense if a threat should impose on campus. Firing a gun at a threat is outside the scope of what a teacher signs up for. Possessing a gun around numerous minors adds another level of pressure onto teachers and faculty. What if a student were to steal the firearm, the teacher or faculty member would most likely be assumed reliable for the theft.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1330_A",
+	"responseid4" : "R_28RGyLrJXxbjGbx"
+}

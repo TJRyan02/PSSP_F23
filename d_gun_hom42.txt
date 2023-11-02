@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I strongly oppose allowing teachers to carry guns in schools. The situation is like fighting fire with fire---it would only make the situation worse. Sure, it may help in some occasions, but I believe the cons outweigh the pros. Not every teacher or school official is responsible enough to carry guns around children. Some teachers get frustrated with students very easily, which could lead to an outburst involving the gun. Personally, one of my principals was arrested for DUI a few years back. If they cannot be trusted to drive, how can they be trusted to carry guns in an area with lots of people? Many other teachers have been arrested or accused of other violent crimes, who's to say letting them use guns in school won't increase that? Students can be the problem too. Some could attack the teacher and steal the gun from them, so now a student who probably does not know how to use a gun is in control of it. Who is to say they also won't just start shooting everywhere? It is far too dangerous.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1586_A",
+	"responseid1" : "R_1KpeBRkmr5iLGcO",
+	"name_arg2" : "I strongly oppose allowing teachers and school officials to carry guns in K-12 schools for several compelling reasons. Mainly, the primary role of educators and school staff is to provide a safe and nurturing learning environment for students. Introducing firearms into this equation poses the risk of accidents, confusion, and undue stress on educators who should focus on teaching. Moreover, arming teachers can have adverse psychological effects on students, making them feel unsafe and potentially damaging the teacher-student relationship, which should be built on trust and mentorship rather than fear. Law enforcement and security personnel are better equipped to handle potentially dangerous situations, and investing in professional security measures and mental health support for students and staff is a more effective and responsible approach to ensuring school safety. This way, we can maintain the sanctity of our educational environments while addressing safety concerns through the appropriate channels.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1628_A",
+	"responseid2" : "R_3QLU8GuWvrRoAmF",
+	"name_arg3" : "Voluntarily introducing guns into the exact places where guns have ravaged the lives of innocent children is simply counter-intuitive. Just as drugs, fights, and classroom disruptions have no place in a learning environment, weapons do not either. Furthermore, imagine being 5-years-old, entering your Kindergarten classroom for the first time, and seeing a pistol holstered on your smiling teachers hip. It's dystopian. Children are taught from a very young age to understand that guns mean violence. The purpose of a gun is to kill. Why bring this threat to children in the classroom?",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1529_B",
+	"responseid3" : "R_PNTtY3utdG5ozst",
+	"name_arg4" : "It can be argued that the idea of school officials and teachers having guns creates unsafe opportunities and allows for less strict gun control. However, allowing these people specifically to carry small, concealed firearms, for example, can actually serve as a preventative measure in stopping school-related shootings and homicides in and around school areas. I go to a university where there was a recent shooting, and I know for a fact that this shooting could have been thwarted or stopped if officials were allowed to carry firearms. I am certain this could also be the case in K-12 schools, where potentially threatening individuals are more likely to be.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1469_B",
+	"responseid4" : "R_3MEvKQnh7s9cJMJ"
+}

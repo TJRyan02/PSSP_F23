@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "1. Guns are generally terrifying. I can’t trust my teachers to be unbiased and not feel “threatened” by me because of stereotypes they could have about me due to my race and gender. Knowing that they have guns would scare me to even slightly tick them off because what if they lose it on me for some reason. I don’t want to die because their coffee wasn’t great today and I asked a “dumb” question",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1228_A",
+	"responseid1" : "R_1dmhoIA2BHEu0iW",
+	"name_arg2" : "Schools are meant to be a safe space, and introducing more guns on school campuses makes the culture and environment on schools one of fear. There are security measures that can be taken elsewhere that will reinforce schools without introducing the possibility of more violence being created by introducing guns into school settings.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1174_A",
+	"responseid2" : "R_e40xob9ZIg300V3",
+	"name_arg3" : "Many people argue over gun control of whether it needs to be strengthened or not. In my personal opinion, it needs to be strengthened. Guns have no right to be on a school's campus. We shouldn't have to debate whether or not to arm teachers. If teachers had access to guns, imagine how dangerous it would be if an angry/uneducated student got a hold of the gun. It would be an even larger issue. The government needs to focus on gun control before they equip teachers with guns.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1409_B",
+	"responseid3" : "R_ZfztTtlruWruz61",
+	"name_arg4" : "I think that no individual besides a trusted police officer should be able to have a gun on school grounds. Teachers can bring them even if there is a policy stopping them but I think that allowing it could cause more trouble. For example, if a teacher got mad at a student and pulled the gun out in their moment of anger. It’s overall safer to not have them on school grounds.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1700_A",
+	"responseid4" : "R_2rI8ZYcICVYQFBd"
+}

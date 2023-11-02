@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Voluntarily introducing guns into the exact places where guns have ravaged the lives of innocent children is simply counter-intuitive. Just as drugs, fights, and classroom disruptions have no place in a learning environment, weapons do not either. Furthermore, imagine being 5-years-old, entering your Kindergarten classroom for the first time, and seeing a pistol holstered on your smiling teachers hip. It's dystopian. Children are taught from a very young age to understand that guns mean violence. The purpose of a gun is to kill. Why bring this threat to children in the classroom?",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1529_B",
+	"responseid1" : "R_PNTtY3utdG5ozst",
+	"name_arg2" : "Teachers and school officials should absolutely not be allowed to carry guns in K-12 schools. Imagine all of the issues we have now in our education system: racism, sexism, etc. If a teacher was having a bad day, and believe me I've seen some of my teachers have extremely bad days, what's to stop a psychotic break and let all chaos run loose. Additionally, it is preposterous to place a gun within the grasp of a child, especially those in elementary school. Truly anything could happen and this approach is not even slapping a bandaid over a bullet wound, its an approach that would rip that bullet wound even wider and deeper if implemented.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1292_A",
+	"responseid2" : "R_2fvonDsKEoaZbHr",
+	"name_arg3" : "The issue of guns cannot be fought with more guns. Although I am pro the idea of giving the children and their parents a feeling of safety, having a gun in the classroom is extremely unsafe for the children, and there is no guarantee that the teachers can bar the children from reaching it or even to use it in a moment of frustration.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1197_B",
+	"responseid3" : "R_1FnpSUUm0LDRPCl",
+	"name_arg4" : "I am anti-gun. I am aware of the violence of guns at school, but as a student I not only feel more unsafe being around guns, but I feel so extremely uncomfortable. Even if that gun is for our protection, it feels wrong and makes me feel more scared at school.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1014_A",
+	"responseid4" : "R_ddpgz8qqmAOmnfj"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I would strongly oppose allowing teachers and school officials to carry guns in k-12 schools because guns should not and are not allowed on educational properties. Guns do not belong in schools and the way to prevent gun violenece is not with more guns, but with more laws and policy to end the spread of gun sales.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1020_A",
+	"responseid1" : "R_3m50X6bllaDD1GC",
+	"name_arg2" : "Giving guns to teachers and school officials may seem like a solution to threats that appear in school zones, but it doesn't take into account the training it would require, the new threats that could appear (like a child getting their hands on said firearm) due to the potential of an adult mishandling their responsibility with the firearm, and the new fear of knowing your teacher or administrators have a gun with them.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1344_A",
+	"responseid2" : "R_1f6E8YRISyHyk3I",
+	"name_arg3" : "Guns should not be allowed in schools, period. Having guns in the classroom would only leave the possibility for incidents involving these guns open, which is the opposite goal of everyone. Schools should be a place to foster learning and creativity, and having guns in the classroom would likely make many students and teachers nervous, and intensive training would also be required to ensure that teachers and school officials were well-trained on how to use the weapons.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1265_B",
+	"responseid3" : "R_vZIjnJHvAE2SklH",
+	"name_arg4" : "I've never believed that fighting fire with fire is a viable option for creating harmony. Gun violence has become a nationwide fear, especially in our schools. Recently, school campuses have become breeding grounds for targeted attacks on innocent individuals. The security of campuses is entirely lacking, which I agree with. However, placing another opportunity for physical harm in the hands of superiors is not a viable solution to this problem. Any impact on gun violence in our nation will be done through preventative measures, not reactionary ones. Giving arms to teachers, even if they are certified, will also open up the opportunity for even more tragedies at the hands of bad individuals. As far as schools, no one functioning within them should have the opportunity to seriously injure others. There will always be people in this world who want to do seriously awful things, but any momentary defense won't solve the problem, it will only further perpetrate the action at hand.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1326_A",
+	"responseid4" : "R_1RgGMFzLIhlnfq1"
+}

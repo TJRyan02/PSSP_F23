@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I believe teachers should not be allowed to carry guns because it could pose significant safety risks and potentially lead to more harm than good. The primary responsibility of teachers is to educate and create a safe learning environment for students. Introducing firearms into schools could increase the chances of accidents, misuse, or escalation of violence. It is important to focus on implementing effective school safety measures, such as improved security protocols and mental health support, to ensure the well-being of students and staff.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1032_A",
+	"responseid1" : "R_2zdvL0atShg1Ntp",
+	"name_arg2" : "I've never believed that fighting fire with fire is a viable option for creating harmony. Gun violence has become a nationwide fear, especially in our schools. Recently, school campuses have become breeding grounds for targeted attacks on innocent individuals. The security of campuses is entirely lacking, which I agree with. However, placing another opportunity for physical harm in the hands of superiors is not a viable solution to this problem. Any impact on gun violence in our nation will be done through preventative measures, not reactionary ones. Giving arms to teachers, even if they are certified, will also open up the opportunity for even more tragedies at the hands of bad individuals. As far as schools, no one functioning within them should have the opportunity to seriously injure others. There will always be people in this world who want to do seriously awful things, but any momentary defense won't solve the problem, it will only further perpetrate the action at hand.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1326_A",
+	"responseid2" : "R_1RgGMFzLIhlnfq1",
+	"name_arg3" : "1. Guns are generally terrifying. I can’t trust my teachers to be unbiased and not feel “threatened” by me because of stereotypes they could have about me due to my race and gender. Knowing that they have guns would scare me to even slightly tick them off because what if they lose it on me for some reason. I don’t want to die because their coffee wasn’t great today and I asked a “dumb” question",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1228_A",
+	"responseid3" : "R_1dmhoIA2BHEu0iW",
+	"name_arg4" : "I once had a teacher that believed that stable-minded teachers should be trained and permitted to conceal-carry weapons on school grounds because it was a defense mechanism to resolve a potential issue if someone draws a gun. However, the root of the issue is that people have access to guns in the first place. The focus on solving the mass shootings in America shouldn't be on arming people to protect themselves, but to limit the amount of people that are allowed to carry guns to begin with.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1703_B",
+	"responseid4" : "R_e8zmTDOkhnhsXoR"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I oppose allowing teachers and school officials to carry guns in K - 12 schools because I think the presence of guns will instill fear among students. I think the actual issue is keep shooters out and not focusing on what to do when they get in. I think there should be a stronger police presence on school campuses through SRO's because they have the necessary training with guns and active shooter situations. I do not think that it is appropriate for teachers to casually have guns in classrooms but that is not to say that I do not think that something must be done to prevent school shootings. I just don't think teachers having guns is the answer.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1271_B",
+	"responseid1" : "R_2ruNn3wzHwfvntp",
+	"name_arg2" : "I don't believe that the answer to gun violence in schools is more guns at school. While teachers may be trained and own personal weapons I don't think schools are the place for them to bring them. I would rather schools invest in safety measures and potentially allowing SRO's to carry guns.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1488_A",
+	"responseid2" : "R_aayZpaKVop4Q6qt",
+	"name_arg3" : "It can be argued that the idea of school officials and teachers having guns creates unsafe opportunities and allows for less strict gun control. However, allowing these people specifically to carry small, concealed firearms, for example, can actually serve as a preventative measure in stopping school-related shootings and homicides in and around school areas. I go to a university where there was a recent shooting, and I know for a fact that this shooting could have been thwarted or stopped if officials were allowed to carry firearms. I am certain this could also be the case in K-12 schools, where potentially threatening individuals are more likely to be.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1469_B",
+	"responseid3" : "R_3MEvKQnh7s9cJMJ",
+	"name_arg4" : "Giving guns to teachers isn't going to solve the issue of school shootings. A teacher's primary purpose is to teach, putting a gun in their hands is a safety risk because the likely case is they do not know how to properly use a gun. If a teacher is careless and forgets to lock the gun away, it poses a risk. It would also cost money and investment to buy guns and train teachers how to use them in school and that money could be invested better into making the school better. Overall, it just poses unnecessary risks and costs money.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1275_B",
+	"responseid4" : "R_1P02jwaCq21f34O"
+}

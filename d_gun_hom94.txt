@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I am anti-gun. I am aware of the violence of guns at school, but as a student I not only feel more unsafe being around guns, but I feel so extremely uncomfortable. Even if that gun is for our protection, it feels wrong and makes me feel more scared at school.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1014_A",
+	"responseid1" : "R_ddpgz8qqmAOmnfj",
+	"name_arg2" : "I strongly oppose allowing teachers and school officials to carry guns in K-12 schools for several compelling reasons. Mainly, the primary role of educators and school staff is to provide a safe and nurturing learning environment for students. Introducing firearms into this equation poses the risk of accidents, confusion, and undue stress on educators who should focus on teaching. Moreover, arming teachers can have adverse psychological effects on students, making them feel unsafe and potentially damaging the teacher-student relationship, which should be built on trust and mentorship rather than fear. Law enforcement and security personnel are better equipped to handle potentially dangerous situations, and investing in professional security measures and mental health support for students and staff is a more effective and responsible approach to ensuring school safety. This way, we can maintain the sanctity of our educational environments while addressing safety concerns through the appropriate channels.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1628_A",
+	"responseid2" : "R_3QLU8GuWvrRoAmF",
+	"name_arg3" : "Guns should not be allowed in schools, period. Having guns in the classroom would only leave the possibility for incidents involving these guns open, which is the opposite goal of everyone. Schools should be a place to foster learning and creativity, and having guns in the classroom would likely make many students and teachers nervous, and intensive training would also be required to ensure that teachers and school officials were well-trained on how to use the weapons.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1265_B",
+	"responseid3" : "R_vZIjnJHvAE2SklH",
+	"name_arg4" : "The issue of guns cannot be fought with more guns. Although I am pro the idea of giving the children and their parents a feeling of safety, having a gun in the classroom is extremely unsafe for the children, and there is no guarantee that the teachers can bar the children from reaching it or even to use it in a moment of frustration.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1197_B",
+	"responseid4" : "R_1FnpSUUm0LDRPCl"
+}

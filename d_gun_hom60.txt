@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Giving guns to teachers and school officials may seem like a solution to threats that appear in school zones, but it doesn't take into account the training it would require, the new threats that could appear (like a child getting their hands on said firearm) due to the potential of an adult mishandling their responsibility with the firearm, and the new fear of knowing your teacher or administrators have a gun with them.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1344_A",
+	"responseid1" : "R_1f6E8YRISyHyk3I",
+	"name_arg2" : "1. Guns are generally terrifying. I can’t trust my teachers to be unbiased and not feel “threatened” by me because of stereotypes they could have about me due to my race and gender. Knowing that they have guns would scare me to even slightly tick them off because what if they lose it on me for some reason. I don’t want to die because their coffee wasn’t great today and I asked a “dumb” question",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1228_A",
+	"responseid2" : "R_1dmhoIA2BHEu0iW",
+	"name_arg3" : "Guns are dangerous no matter who is holding them and children shouldn't be exposed to them in any way. Having a school shooter come to your school is not going to be fixed by another person in the building also having a gun more guns don't stop the shooting they just make it worse and endanger more people. Also, in order for this to happen every teacher and staff would need to have formal gun training and safety so that they knew what they were doing and did not let a kid get a hold of it and that would be really expensive. Adding more guns will just scare more people, scare more kids.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1691_B",
+	"responseid3" : "R_2dYMNt3z5NQkzvj",
+	"name_arg4" : "Teachers and school officials should absolutely not be allowed to carry guns in K-12 schools. Imagine all of the issues we have now in our education system: racism, sexism, etc. If a teacher was having a bad day, and believe me I've seen some of my teachers have extremely bad days, what's to stop a psychotic break and let all chaos run loose. Additionally, it is preposterous to place a gun within the grasp of a child, especially those in elementary school. Truly anything could happen and this approach is not even slapping a bandaid over a bullet wound, its an approach that would rip that bullet wound even wider and deeper if implemented.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1292_A",
+	"responseid4" : "R_2fvonDsKEoaZbHr"
+}

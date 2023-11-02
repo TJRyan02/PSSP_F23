@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I oppose allowing teachers and school officials to carry guns in K - 12 schools because I think the presence of guns will instill fear among students. I think the actual issue is keep shooters out and not focusing on what to do when they get in. I think there should be a stronger police presence on school campuses through SRO's because they have the necessary training with guns and active shooter situations. I do not think that it is appropriate for teachers to casually have guns in classrooms but that is not to say that I do not think that something must be done to prevent school shootings. I just don't think teachers having guns is the answer.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1271_B",
+	"responseid1" : "R_2ruNn3wzHwfvntp",
+	"name_arg2" : "Teachers and school officials should not be given the responsibility of possessing guns with the intention of defense if a threat should impose on campus. Firing a gun at a threat is outside the scope of what a teacher signs up for. Possessing a gun around numerous minors adds another level of pressure onto teachers and faculty. What if a student were to steal the firearm, the teacher or faculty member would most likely be assumed reliable for the theft.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1330_A",
+	"responseid2" : "R_28RGyLrJXxbjGbx",
+	"name_arg3" : "While I can understand why having guns in the school will give peace of mind and protection for our youth and their caretakers, this would create another dangerous issue. How many videos are seen these days of teachers and students getting into physical altercations. Now imagine if their was a gun within reaching distance. You can look at road rage circumstances for example, small altercations quickly blow up into shots being fired. Teachers and students are simply too emotionally involved to have access to such a weapon",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1668_A",
+	"responseid3" : "R_2zSb5ZTN6bq8jsI",
+	"name_arg4" : "Giving guns to teachers and school officials may seem like a solution to threats that appear in school zones, but it doesn't take into account the training it would require, the new threats that could appear (like a child getting their hands on said firearm) due to the potential of an adult mishandling their responsibility with the firearm, and the new fear of knowing your teacher or administrators have a gun with them.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1344_A",
+	"responseid4" : "R_1f6E8YRISyHyk3I"
+}

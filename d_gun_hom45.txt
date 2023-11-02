@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Mass shootings are a horrible issue in this country, and bringing in even more guns to try and combat the issue is not effective nor helpful. I believe that guns should not be as easily accessible, and a school is certainly not a place for such a dangerous and life-threatening weapon.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1487_B",
+	"responseid1" : "R_3nNIWTIHigMVm0H",
+	"name_arg2" : "Guns should not be allowed in schools, period. Having guns in the classroom would only leave the possibility for incidents involving these guns open, which is the opposite goal of everyone. Schools should be a place to foster learning and creativity, and having guns in the classroom would likely make many students and teachers nervous, and intensive training would also be required to ensure that teachers and school officials were well-trained on how to use the weapons.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1265_B",
+	"responseid2" : "R_vZIjnJHvAE2SklH",
+	"name_arg3" : "Giving guns to teachers isn't going to solve the issue of school shootings. A teacher's primary purpose is to teach, putting a gun in their hands is a safety risk because the likely case is they do not know how to properly use a gun. If a teacher is careless and forgets to lock the gun away, it poses a risk. It would also cost money and investment to buy guns and train teachers how to use them in school and that money could be invested better into making the school better. Overall, it just poses unnecessary risks and costs money.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1275_B",
+	"responseid3" : "R_1P02jwaCq21f34O",
+	"name_arg4" : "Simply, we do not need more guns. A gun being in a school already would allow someone will ill intentions to be able to more easily gain access to it. The money that could be used to buy a gun for each teacher and train them on how to use them could instead be used on security measures to protect a school from potential attackers.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1514_A",
+	"responseid4" : "R_1oce2SGAl6olyKY"
+}

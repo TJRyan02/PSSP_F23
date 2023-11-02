@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Introducing guns to teachers would inadvertently create a culture advocating for guns. Using guns in general as the main antithesis of gun violence in schools is absurd. <br>Accidents would increase. Consequentially... <br>Cost of training would also need to be considered (it often is not). Teachers would need extensive, expensive firearm training to be allowed to wield weapons around literal children. <br>Firearms should inherently not be around kids. Giving teachers guns would be a slap in the face of child safety concerns.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1674_A",
+	"responseid1" : "R_1CgyUBLoDqmvxlV",
+	"name_arg2" : "Opposing the idea of allowing teachers and school officials to carry guns in K-12 schools is rooted in a commitment to the safety and well-being of students and the belief that alternative solutions are more effective and less risky. First and foremost, introducing firearms into educational environments increases the potential for accidents and unintended harm. Teachers are primarily trained to educate, not to handle life-threatening situations, and arming them could lead to unintentional firearm discharges, endangering both students and educators.<br><br>Furthermore, the presence of guns in schools may create an atmosphere of fear and anxiety among students. Learning is most effective in a safe and nurturing environment, and the introduction of firearms can undermine this atmosphere, potentially causing emotional distress and hindering the educational experience.<br><br>Advocates for arming teachers argue that it could deter potential shooters, but evidence suggests otherwise. In high-stress situations, even trained professionals sometimes make critical errors, and expecting educators to serve as the first line of defense against armed attackers is unrealistic and unfair. It could place undue stress on teachers, affecting their ability to teach effectively.<br><br>A better approach to school safety is investing in comprehensive measures such as improved mental health support, enhanced security infrastructure, and stricter gun control laws. These solutions address the root causes of school violence and provide a safer and more sustainable path to protecting our students.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1459_B",
+	"responseid2" : "R_3Kuroq9ogzGPCon",
+	"name_arg3" : "I would truly like to understand more about the training teachers undergo when carrying an armed weapon on campus. Several teachers recently have had outbursts and come to teach their classes intoxicated which poses a severe threat to the school and students in the classrooms. Guns are one of the most controversial topics and teachers being armed in classrooms may go through bad days which could potentially cost the lives of several students. The mental health crisis specifically proves that several professors are not capable of being armed as they are too affected.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1723_B",
+	"responseid3" : "R_12g3saaU1EO4ICs",
+	"name_arg4" : "Simply, we do not need more guns. A gun being in a school already would allow someone will ill intentions to be able to more easily gain access to it. The money that could be used to buy a gun for each teacher and train them on how to use them could instead be used on security measures to protect a school from potential attackers.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1514_A",
+	"responseid4" : "R_1oce2SGAl6olyKY"
+}

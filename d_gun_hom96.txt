@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Why should educators have to die in the name of saving their students. No amount of training would justify having teachers carry guns, and bringing guns into classrooms and schools would make them less safe. Instead of arming teachers why can’t we increase mental health resources and gun control for minors.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1062_A",
+	"responseid1" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg2" : "I oppose allowing teachers and school officials to carry guns in K - 12 schools because I think the presence of guns will instill fear among students. I think the actual issue is keep shooters out and not focusing on what to do when they get in. I think there should be a stronger police presence on school campuses through SRO's because they have the necessary training with guns and active shooter situations. I do not think that it is appropriate for teachers to casually have guns in classrooms but that is not to say that I do not think that something must be done to prevent school shootings. I just don't think teachers having guns is the answer.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1271_B",
+	"responseid2" : "R_2ruNn3wzHwfvntp",
+	"name_arg3" : "I think that no individual besides a trusted police officer should be able to have a gun on school grounds. Teachers can bring them even if there is a policy stopping them but I think that allowing it could cause more trouble. For example, if a teacher got mad at a student and pulled the gun out in their moment of anger. It’s overall safer to not have them on school grounds.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1700_A",
+	"responseid3" : "R_2rI8ZYcICVYQFBd",
+	"name_arg4" : "Having armed teachers in schools is likely one of the most dangerous things that could happen. If teachers are allowed access to weaponry without the necessary safety protocols to go along with them, these teachers are becoming equally as dangerous as anyone they'd be protecting from. Also, this puts very dangerous weaponry in very close proximity to the children being taught. This could put students at risk if other students decide to take advantage of the weapons and create chaos.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1603_B",
+	"responseid4" : "R_3RykDkP4C0Ac0NP"
+}

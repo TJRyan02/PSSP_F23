@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Teachers and school officials should not be able to carry guns in K-12 schools as it will create more anxiety and a lack of trust between teachers and students. Furthermore, guns should not be allowed at school even as a \"means of protection\" as they ultimately will create more harm than good even in the event of an emergency. It also brings about the idea that students could potentially look to steal the guns and provides another route of access for people who should not be in possession of guns to acquire them.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1664_A",
+	"responseid1" : "R_1ps2TnFt7MDnhmr",
+	"name_arg2" : "Why should educators have to die in the name of saving their students. No amount of training would justify having teachers carry guns, and bringing guns into classrooms and schools would make them less safe. Instead of arming teachers why can’t we increase mental health resources and gun control for minors.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1062_A",
+	"responseid2" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg3" : "Teachers do not need to be armed, regardless if they are properly trained. While some argue it could aid in defense, the root of the problem should be addressed instead of trying to combat. Teachers should not have to defend their students from mass-shooting threats. Instead, the cause of these school shootings needs to be investigated and prevented.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1201_B",
+	"responseid3" : "R_3PM5XwMJoMsADbZ",
+	"name_arg4" : "Schools are meant to be a safe space, and introducing more guns on school campuses makes the culture and environment on schools one of fear. There are security measures that can be taken elsewhere that will reinforce schools without introducing the possibility of more violence being created by introducing guns into school settings.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1174_A",
+	"responseid4" : "R_e40xob9ZIg300V3"
+}

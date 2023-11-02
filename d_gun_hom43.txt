@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Teachers and school officials should not be given the responsibility of possessing guns with the intention of defense if a threat should impose on campus. Firing a gun at a threat is outside the scope of what a teacher signs up for. Possessing a gun around numerous minors adds another level of pressure onto teachers and faculty. What if a student were to steal the firearm, the teacher or faculty member would most likely be assumed reliable for the theft.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1330_A",
+	"responseid1" : "R_28RGyLrJXxbjGbx",
+	"name_arg2" : "Simply, we do not need more guns. A gun being in a school already would allow someone will ill intentions to be able to more easily gain access to it. The money that could be used to buy a gun for each teacher and train them on how to use them could instead be used on security measures to protect a school from potential attackers.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1514_A",
+	"responseid2" : "R_1oce2SGAl6olyKY",
+	"name_arg3" : "Giving guns to teachers and school officials may seem like a solution to threats that appear in school zones, but it doesn't take into account the training it would require, the new threats that could appear (like a child getting their hands on said firearm) due to the potential of an adult mishandling their responsibility with the firearm, and the new fear of knowing your teacher or administrators have a gun with them.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1344_A",
+	"responseid3" : "R_1f6E8YRISyHyk3I",
+	"name_arg4" : "I favor allowing teachers and school officials to carry guns in K-12 schools because there are school shootings happening all around the country. People are scared that they have no way to defend themselves or others. Along with mandatory training and education on how/when guns should be used, I think that teachers and school officials should have some way to defend themselves and their students. This is a preventative step in order to save more lives than we would lose and it is sad that we even have to think of this as a possibility.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1600_A",
+	"responseid4" : "R_2ROJRsV7oGUt188"
+}

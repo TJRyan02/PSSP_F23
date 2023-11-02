@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I would truly like to understand more about the training teachers undergo when carrying an armed weapon on campus. Several teachers recently have had outbursts and come to teach their classes intoxicated which poses a severe threat to the school and students in the classrooms. Guns are one of the most controversial topics and teachers being armed in classrooms may go through bad days which could potentially cost the lives of several students. The mental health crisis specifically proves that several professors are not capable of being armed as they are too affected.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1723_B",
+	"responseid1" : "R_12g3saaU1EO4ICs",
+	"name_arg2" : "Providing teachers with guns on my further diminishes gun control, which is something detrimental that America already lacks. Giving teachers guns would decentivize the teachers we actually need in the system and incentivize those who want guns to became teachers. No teacher needs a gun. This only provides more of a threat for children who are already being failed by the system.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1750_A",
+	"responseid2" : "R_3dXPzqNGo3Hrdhz",
+	"name_arg3" : "Many people argue over gun control of whether it needs to be strengthened or not. In my personal opinion, it needs to be strengthened. Guns have no right to be on a school's campus. We shouldn't have to debate whether or not to arm teachers. If teachers had access to guns, imagine how dangerous it would be if an angry/uneducated student got a hold of the gun. It would be an even larger issue. The government needs to focus on gun control before they equip teachers with guns.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1409_B",
+	"responseid3" : "R_ZfztTtlruWruz61",
+	"name_arg4" : "I once had a teacher that believed that stable-minded teachers should be trained and permitted to conceal-carry weapons on school grounds because it was a defense mechanism to resolve a potential issue if someone draws a gun. However, the root of the issue is that people have access to guns in the first place. The focus on solving the mass shootings in America shouldn't be on arming people to protect themselves, but to limit the amount of people that are allowed to carry guns to begin with.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1703_B",
+	"responseid4" : "R_e8zmTDOkhnhsXoR"
+}

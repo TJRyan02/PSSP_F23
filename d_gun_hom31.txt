@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I once had a teacher that believed that stable-minded teachers should be trained and permitted to conceal-carry weapons on school grounds because it was a defense mechanism to resolve a potential issue if someone draws a gun. However, the root of the issue is that people have access to guns in the first place. The focus on solving the mass shootings in America shouldn't be on arming people to protect themselves, but to limit the amount of people that are allowed to carry guns to begin with.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1703_B",
+	"responseid1" : "R_e8zmTDOkhnhsXoR",
+	"name_arg2" : "Guns should not be allowed on school property, apart from law enforcement officers! These politicians who advocate for policies like this are hypocrites. Guns aren't allowed in their government buildings or their offices, so why are they trying to put this burden on teachers? I think if you want to increase security, increasing law enforcement personnel on campus could be a start. Additionally, I am in favor of stricter gun laws that would force consumers to jump through more hoops to purchase a firearm. I'm not a proponent of banning guns, don't get it twisted. However, I think we could be doing more in the legislature to prevent gun violence.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1802_A",
+	"responseid2" : "R_2B4pBpqWUBja69B",
+	"name_arg3" : "The issue of guns cannot be fought with more guns. Although I am pro the idea of giving the children and their parents a feeling of safety, having a gun in the classroom is extremely unsafe for the children, and there is no guarantee that the teachers can bar the children from reaching it or even to use it in a moment of frustration.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1197_B",
+	"responseid3" : "R_1FnpSUUm0LDRPCl",
+	"name_arg4" : "I think that no individual besides a trusted police officer should be able to have a gun on school grounds. Teachers can bring them even if there is a policy stopping them but I think that allowing it could cause more trouble. For example, if a teacher got mad at a student and pulled the gun out in their moment of anger. It’s overall safer to not have them on school grounds.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1700_A",
+	"responseid4" : "R_2rI8ZYcICVYQFBd"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Guns are dangerous in general, so I don't think having guns around children is smart at all. I think having guns in the classroom would also create an environment were children don't feel safe. If a teacher needs a gun in the classroom for safety reasons then the children probability need to be scared of some outside threat, but outside threats can be decreased by better security in public schools. Better security meaning metal detecters, a closed perimeter in around every school, and locks on the doors.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1063_B",
+	"responseid1" : "R_9QY3pueoFffDAMV",
+	"name_arg2" : "I've never believed that fighting fire with fire is a viable option for creating harmony. Gun violence has become a nationwide fear, especially in our schools. Recently, school campuses have become breeding grounds for targeted attacks on innocent individuals. The security of campuses is entirely lacking, which I agree with. However, placing another opportunity for physical harm in the hands of superiors is not a viable solution to this problem. Any impact on gun violence in our nation will be done through preventative measures, not reactionary ones. Giving arms to teachers, even if they are certified, will also open up the opportunity for even more tragedies at the hands of bad individuals. As far as schools, no one functioning within them should have the opportunity to seriously injure others. There will always be people in this world who want to do seriously awful things, but any momentary defense won't solve the problem, it will only further perpetrate the action at hand.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1326_A",
+	"responseid2" : "R_1RgGMFzLIhlnfq1",
+	"name_arg3" : "The only reason that an educator would need a gun would be to protect themselves and their students from other guns. So instead of fueling fire with fire, we should aim to get to the root of the problem - unregulated access to firearms. With comprehensive gun laws and thorough background checks there would be no other reason why a teacher would need a gun in a K-12 school.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1152_A",
+	"responseid3" : "R_9mlWe7zazLsVRV7",
+	"name_arg4" : "I would truly like to understand more about the training teachers undergo when carrying an armed weapon on campus. Several teachers recently have had outbursts and come to teach their classes intoxicated which poses a severe threat to the school and students in the classrooms. Guns are one of the most controversial topics and teachers being armed in classrooms may go through bad days which could potentially cost the lives of several students. The mental health crisis specifically proves that several professors are not capable of being armed as they are too affected.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1723_B",
+	"responseid4" : "R_12g3saaU1EO4ICs"
+}

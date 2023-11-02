@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Guns should not be allowed on school property, apart from law enforcement officers! These politicians who advocate for policies like this are hypocrites. Guns aren't allowed in their government buildings or their offices, so why are they trying to put this burden on teachers? I think if you want to increase security, increasing law enforcement personnel on campus could be a start. Additionally, I am in favor of stricter gun laws that would force consumers to jump through more hoops to purchase a firearm. I'm not a proponent of banning guns, don't get it twisted. However, I think we could be doing more in the legislature to prevent gun violence.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1802_A",
+	"responseid1" : "R_2B4pBpqWUBja69B",
+	"name_arg2" : "I would truly like to understand more about the training teachers undergo when carrying an armed weapon on campus. Several teachers recently have had outbursts and come to teach their classes intoxicated which poses a severe threat to the school and students in the classrooms. Guns are one of the most controversial topics and teachers being armed in classrooms may go through bad days which could potentially cost the lives of several students. The mental health crisis specifically proves that several professors are not capable of being armed as they are too affected.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1723_B",
+	"responseid2" : "R_12g3saaU1EO4ICs",
+	"name_arg3" : "Opposing the idea of allowing teachers and school officials to carry guns in K-12 schools is rooted in a commitment to the safety and well-being of students and the belief that alternative solutions are more effective and less risky. First and foremost, introducing firearms into educational environments increases the potential for accidents and unintended harm. Teachers are primarily trained to educate, not to handle life-threatening situations, and arming them could lead to unintentional firearm discharges, endangering both students and educators.<br><br>Furthermore, the presence of guns in schools may create an atmosphere of fear and anxiety among students. Learning is most effective in a safe and nurturing environment, and the introduction of firearms can undermine this atmosphere, potentially causing emotional distress and hindering the educational experience.<br><br>Advocates for arming teachers argue that it could deter potential shooters, but evidence suggests otherwise. In high-stress situations, even trained professionals sometimes make critical errors, and expecting educators to serve as the first line of defense against armed attackers is unrealistic and unfair. It could place undue stress on teachers, affecting their ability to teach effectively.<br><br>A better approach to school safety is investing in comprehensive measures such as improved mental health support, enhanced security infrastructure, and stricter gun control laws. These solutions address the root causes of school violence and provide a safer and more sustainable path to protecting our students.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1459_B",
+	"responseid3" : "R_3Kuroq9ogzGPCon",
+	"name_arg4" : "Introducing more guns into schools is not a good idea as it can hugely increase the risk of accidents. It is also possible that there will be attempts from students to take these guns to scare and possibly even injure fellow students. Schools are already a volatile environment, and introducing more guns is unlikely to ameliorate this situation.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1762_A",
+	"responseid4" : "R_1lnuUsxNXtLDm4j"
+}

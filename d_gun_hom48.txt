@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "1. Guns are generally terrifying. I can’t trust my teachers to be unbiased and not feel “threatened” by me because of stereotypes they could have about me due to my race and gender. Knowing that they have guns would scare me to even slightly tick them off because what if they lose it on me for some reason. I don’t want to die because their coffee wasn’t great today and I asked a “dumb” question",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1228_A",
+	"responseid1" : "R_1dmhoIA2BHEu0iW",
+	"name_arg2" : "Teachers and school officials should absolutely not be allowed to carry guns in K-12 schools. Imagine all of the issues we have now in our education system: racism, sexism, etc. If a teacher was having a bad day, and believe me I've seen some of my teachers have extremely bad days, what's to stop a psychotic break and let all chaos run loose. Additionally, it is preposterous to place a gun within the grasp of a child, especially those in elementary school. Truly anything could happen and this approach is not even slapping a bandaid over a bullet wound, its an approach that would rip that bullet wound even wider and deeper if implemented.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1292_A",
+	"responseid2" : "R_2fvonDsKEoaZbHr",
+	"name_arg3" : "Putting guns in more under-qualified people's hands is a colossal mistake. WIthout proper training and procedures, carrying a firearm could put more students and faculty at risk. Having weapons available in each classroom could lead to more shootings happening in schools as there would be plentiful access to these guns.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1242_A",
+	"responseid3" : "R_ehNlx7oPHhci7cJ",
+	"name_arg4" : "I would strongly oppose allowing teachers and school officials to carry guns in k-12 schools because guns should not and are not allowed on educational properties. Guns do not belong in schools and the way to prevent gun violenece is not with more guns, but with more laws and policy to end the spread of gun sales.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1020_A",
+	"responseid4" : "R_3m50X6bllaDD1GC"
+}

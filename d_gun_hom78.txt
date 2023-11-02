@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Most school shooters are students and would be on campus with guns every day if this is the case. Most teachers would not be able to stop an aggressive student attempting to take their gun. I think guns on campus would not raise safety but raise paranoia. Teachers are not trained to be professionals with firearms, and they shouldn't have to be.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1490_A",
+	"responseid1" : "R_24cjSSU8sBNcjes",
+	"name_arg2" : "Giving guns to teachers isn't going to solve the issue of school shootings. A teacher's primary purpose is to teach, putting a gun in their hands is a safety risk because the likely case is they do not know how to properly use a gun. If a teacher is careless and forgets to lock the gun away, it poses a risk. It would also cost money and investment to buy guns and train teachers how to use them in school and that money could be invested better into making the school better. Overall, it just poses unnecessary risks and costs money.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1275_B",
+	"responseid2" : "R_1P02jwaCq21f34O",
+	"name_arg3" : "I whole early stick with my opposition of teachers and school officials carrying guns in K-12 schools. Due to lack of education on weapons, even individuals with safe usage lack the ability to safely use and store a gun. In light of recent events, I feel as the issue isn't necesarrily guns its a mental health issue. I feel as if teachers or anyone in generally would have to go through extensive screening to be able to do so.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1291_B",
+	"responseid3" : "R_1gHjbL2DMHKGr7e",
+	"name_arg4" : "I think having K-12 teachers carrying guns is an accident waiting to happen. How do we know that a teacher won't have a mental break down and start shooting at the kids. What if a child gets a hold of the gun and starts shooting not only the teachers but the students as well. Furthermore, this can cause students to be scared to be at school or make it seem that it is normal for people to carry guns to school.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1491_B",
+	"responseid4" : "R_1JK4vvpCszt45AQ"
+}

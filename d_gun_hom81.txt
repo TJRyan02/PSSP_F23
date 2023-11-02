@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I would strongly oppose allowing teachers and school officials to carry guns in k-12 schools because guns should not and are not allowed on educational properties. Guns do not belong in schools and the way to prevent gun violenece is not with more guns, but with more laws and policy to end the spread of gun sales.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1020_A",
+	"responseid1" : "R_3m50X6bllaDD1GC",
+	"name_arg2" : "Teachers and school officials should not be given the responsibility of possessing guns with the intention of defense if a threat should impose on campus. Firing a gun at a threat is outside the scope of what a teacher signs up for. Possessing a gun around numerous minors adds another level of pressure onto teachers and faculty. What if a student were to steal the firearm, the teacher or faculty member would most likely be assumed reliable for the theft.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1330_A",
+	"responseid2" : "R_28RGyLrJXxbjGbx",
+	"name_arg3" : "Putting guns in more under-qualified people's hands is a colossal mistake. WIthout proper training and procedures, carrying a firearm could put more students and faculty at risk. Having weapons available in each classroom could lead to more shootings happening in schools as there would be plentiful access to these guns.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1242_A",
+	"responseid3" : "R_ehNlx7oPHhci7cJ",
+	"name_arg4" : "I believe teachers should not be allowed to carry guns because it could pose significant safety risks and potentially lead to more harm than good. The primary responsibility of teachers is to educate and create a safe learning environment for students. Introducing firearms into schools could increase the chances of accidents, misuse, or escalation of violence. It is important to focus on implementing effective school safety measures, such as improved security protocols and mental health support, to ensure the well-being of students and staff.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1032_A",
+	"responseid4" : "R_2zdvL0atShg1Ntp"
+}

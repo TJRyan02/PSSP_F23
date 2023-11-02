@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Guns are dangerous in general, so I don't think having guns around children is smart at all. I think having guns in the classroom would also create an environment were children don't feel safe. If a teacher needs a gun in the classroom for safety reasons then the children probability need to be scared of some outside threat, but outside threats can be decreased by better security in public schools. Better security meaning metal detecters, a closed perimeter in around every school, and locks on the doors.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1063_B",
+	"responseid1" : "R_9QY3pueoFffDAMV",
+	"name_arg2" : "Most school shooters are students and would be on campus with guns every day if this is the case. Most teachers would not be able to stop an aggressive student attempting to take their gun. I think guns on campus would not raise safety but raise paranoia. Teachers are not trained to be professionals with firearms, and they shouldn't have to be.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1490_A",
+	"responseid2" : "R_24cjSSU8sBNcjes",
+	"name_arg3" : "Teachers and school officials should not be able to carry guns in K-12 schools as it will create more anxiety and a lack of trust between teachers and students. Furthermore, guns should not be allowed at school even as a \"means of protection\" as they ultimately will create more harm than good even in the event of an emergency. It also brings about the idea that students could potentially look to steal the guns and provides another route of access for people who should not be in possession of guns to acquire them.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1664_A",
+	"responseid3" : "R_1ps2TnFt7MDnhmr",
+	"name_arg4" : "I do not think that adding guns to schools makes schools safer. The issue is the guns are as easy as they are to access in the first place. If we already have guns in the schools, the risk may run higher for someone to locate the gun. In my opinion, it does not make schools safe, but arguably unsafer.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1607_B",
+	"responseid4" : "R_3LbDIVDZ0mOKYhR"
+}

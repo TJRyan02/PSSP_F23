@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "There is no reason teachers should be carrying a firearm in schools. I feel that many educators do not adequately no how to properly use a gun and this policy would ultimately make the situation more dangerous than it already is. Instead, our government needs to focus on taking guns away from those who shouldn’t have them and putting the necessary protections in place to stop dangerous people from getting a gun.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1391_B",
+	"responseid1" : "R_1LYbt9ob44kkjqw",
+	"name_arg2" : "Giving guns to teachers isn't going to solve the issue of school shootings. A teacher's primary purpose is to teach, putting a gun in their hands is a safety risk because the likely case is they do not know how to properly use a gun. If a teacher is careless and forgets to lock the gun away, it poses a risk. It would also cost money and investment to buy guns and train teachers how to use them in school and that money could be invested better into making the school better. Overall, it just poses unnecessary risks and costs money.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1275_B",
+	"responseid2" : "R_1P02jwaCq21f34O",
+	"name_arg3" : "Putting guns in more under-qualified people's hands is a colossal mistake. WIthout proper training and procedures, carrying a firearm could put more students and faculty at risk. Having weapons available in each classroom could lead to more shootings happening in schools as there would be plentiful access to these guns.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1242_A",
+	"responseid3" : "R_ehNlx7oPHhci7cJ",
+	"name_arg4" : "Guns are dangerous in general, so I don't think having guns around children is smart at all. I think having guns in the classroom would also create an environment were children don't feel safe. If a teacher needs a gun in the classroom for safety reasons then the children probability need to be scared of some outside threat, but outside threats can be decreased by better security in public schools. Better security meaning metal detecters, a closed perimeter in around every school, and locks on the doors.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1063_B",
+	"responseid4" : "R_9QY3pueoFffDAMV"
+}

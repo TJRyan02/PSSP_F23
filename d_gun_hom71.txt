@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Guns are dangerous in general, so I don't think having guns around children is smart at all. I think having guns in the classroom would also create an environment were children don't feel safe. If a teacher needs a gun in the classroom for safety reasons then the children probability need to be scared of some outside threat, but outside threats can be decreased by better security in public schools. Better security meaning metal detecters, a closed perimeter in around every school, and locks on the doors.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1063_B",
+	"responseid1" : "R_9QY3pueoFffDAMV",
+	"name_arg2" : "Putting guns in more under-qualified people's hands is a colossal mistake. WIthout proper training and procedures, carrying a firearm could put more students and faculty at risk. Having weapons available in each classroom could lead to more shootings happening in schools as there would be plentiful access to these guns.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1242_A",
+	"responseid2" : "R_ehNlx7oPHhci7cJ",
+	"name_arg3" : "I would truly like to understand more about the training teachers undergo when carrying an armed weapon on campus. Several teachers recently have had outbursts and come to teach their classes intoxicated which poses a severe threat to the school and students in the classrooms. Guns are one of the most controversial topics and teachers being armed in classrooms may go through bad days which could potentially cost the lives of several students. The mental health crisis specifically proves that several professors are not capable of being armed as they are too affected.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1723_B",
+	"responseid3" : "R_12g3saaU1EO4ICs",
+	"name_arg4" : "Teachers do not need to be armed, regardless if they are properly trained. While some argue it could aid in defense, the root of the problem should be addressed instead of trying to combat. Teachers should not have to defend their students from mass-shooting threats. Instead, the cause of these school shootings needs to be investigated and prevented.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1201_B",
+	"responseid4" : "R_3PM5XwMJoMsADbZ"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Giving teachers does not solve or prevent gun violence in schools. It should not be the teachers responsibility to defend their students with guns. We should be focusing more on removing the threat of guns entirely by introducing stricter gun regulation and education in schools. Having guns in school also poses a danger, if a child was to gain access it.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1053_B",
+	"responseid1" : "R_3O2isZdF1aFVDq7",
+	"name_arg2" : "Teachers and school officials should not be given the responsibility of possessing guns with the intention of defense if a threat should impose on campus. Firing a gun at a threat is outside the scope of what a teacher signs up for. Possessing a gun around numerous minors adds another level of pressure onto teachers and faculty. What if a student were to steal the firearm, the teacher or faculty member would most likely be assumed reliable for the theft.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1330_A",
+	"responseid2" : "R_28RGyLrJXxbjGbx",
+	"name_arg3" : "Guns should not be allowed on school property, apart from law enforcement officers! These politicians who advocate for policies like this are hypocrites. Guns aren't allowed in their government buildings or their offices, so why are they trying to put this burden on teachers? I think if you want to increase security, increasing law enforcement personnel on campus could be a start. Additionally, I am in favor of stricter gun laws that would force consumers to jump through more hoops to purchase a firearm. I'm not a proponent of banning guns, don't get it twisted. However, I think we could be doing more in the legislature to prevent gun violence.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1802_A",
+	"responseid3" : "R_2B4pBpqWUBja69B",
+	"name_arg4" : "I oppose allowing teachers and school officials to carry guns in K - 12 schools because I think the presence of guns will instill fear among students. I think the actual issue is keep shooters out and not focusing on what to do when they get in. I think there should be a stronger police presence on school campuses through SRO's because they have the necessary training with guns and active shooter situations. I do not think that it is appropriate for teachers to casually have guns in classrooms but that is not to say that I do not think that something must be done to prevent school shootings. I just don't think teachers having guns is the answer.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1271_B",
+	"responseid4" : "R_2ruNn3wzHwfvntp"
+}

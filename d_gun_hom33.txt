@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Isn't the point of preventing school shootings is that we want to remove guns entirely from a school building? What benefit would it be for a teacher to have a gun in the classroom, when the students can easily access the gun. There are too many factors for missuse and mistakes that could be very harmful, and it is not worth the risk to introduce guns to the classroom as a means of curbing shootings.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1458_A",
+	"responseid1" : "R_2UbwEMvI1aR7rAB",
+	"name_arg2" : "I think that no individual besides a trusted police officer should be able to have a gun on school grounds. Teachers can bring them even if there is a policy stopping them but I think that allowing it could cause more trouble. For example, if a teacher got mad at a student and pulled the gun out in their moment of anger. It’s overall safer to not have them on school grounds.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1700_A",
+	"responseid2" : "R_2rI8ZYcICVYQFBd",
+	"name_arg3" : "While I can understand why having guns in the school will give peace of mind and protection for our youth and their caretakers, this would create another dangerous issue. How many videos are seen these days of teachers and students getting into physical altercations. Now imagine if their was a gun within reaching distance. You can look at road rage circumstances for example, small altercations quickly blow up into shots being fired. Teachers and students are simply too emotionally involved to have access to such a weapon",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1668_A",
+	"responseid3" : "R_2zSb5ZTN6bq8jsI",
+	"name_arg4" : "Introducing guns to teachers would inadvertently create a culture advocating for guns. Using guns in general as the main antithesis of gun violence in schools is absurd. <br>Accidents would increase. Consequentially... <br>Cost of training would also need to be considered (it often is not). Teachers would need extensive, expensive firearm training to be allowed to wield weapons around literal children. <br>Firearms should inherently not be around kids. Giving teachers guns would be a slap in the face of child safety concerns.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1674_A",
+	"responseid4" : "R_1CgyUBLoDqmvxlV"
+}

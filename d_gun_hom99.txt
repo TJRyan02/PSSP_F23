@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I strongly oppose allowing teachers to carry guns in schools. The situation is like fighting fire with fire---it would only make the situation worse. Sure, it may help in some occasions, but I believe the cons outweigh the pros. Not every teacher or school official is responsible enough to carry guns around children. Some teachers get frustrated with students very easily, which could lead to an outburst involving the gun. Personally, one of my principals was arrested for DUI a few years back. If they cannot be trusted to drive, how can they be trusted to carry guns in an area with lots of people? Many other teachers have been arrested or accused of other violent crimes, who's to say letting them use guns in school won't increase that? Students can be the problem too. Some could attack the teacher and steal the gun from them, so now a student who probably does not know how to use a gun is in control of it. Who is to say they also won't just start shooting everywhere? It is far too dangerous.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1586_A",
+	"responseid1" : "R_1KpeBRkmr5iLGcO",
+	"name_arg2" : "Introducing guns to teachers would inadvertently create a culture advocating for guns. Using guns in general as the main antithesis of gun violence in schools is absurd. <br>Accidents would increase. Consequentially... <br>Cost of training would also need to be considered (it often is not). Teachers would need extensive, expensive firearm training to be allowed to wield weapons around literal children. <br>Firearms should inherently not be around kids. Giving teachers guns would be a slap in the face of child safety concerns.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1674_A",
+	"responseid2" : "R_1CgyUBLoDqmvxlV",
+	"name_arg3" : "Having armed teachers in schools is likely one of the most dangerous things that could happen. If teachers are allowed access to weaponry without the necessary safety protocols to go along with them, these teachers are becoming equally as dangerous as anyone they'd be protecting from. Also, this puts very dangerous weaponry in very close proximity to the children being taught. This could put students at risk if other students decide to take advantage of the weapons and create chaos.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1603_B",
+	"responseid3" : "R_3RykDkP4C0Ac0NP",
+	"name_arg4" : "I've never believed that fighting fire with fire is a viable option for creating harmony. Gun violence has become a nationwide fear, especially in our schools. Recently, school campuses have become breeding grounds for targeted attacks on innocent individuals. The security of campuses is entirely lacking, which I agree with. However, placing another opportunity for physical harm in the hands of superiors is not a viable solution to this problem. Any impact on gun violence in our nation will be done through preventative measures, not reactionary ones. Giving arms to teachers, even if they are certified, will also open up the opportunity for even more tragedies at the hands of bad individuals. As far as schools, no one functioning within them should have the opportunity to seriously injure others. There will always be people in this world who want to do seriously awful things, but any momentary defense won't solve the problem, it will only further perpetrate the action at hand.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1326_A",
+	"responseid4" : "R_1RgGMFzLIhlnfq1"
+}

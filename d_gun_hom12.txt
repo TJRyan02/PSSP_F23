@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I think that no individual besides a trusted police officer should be able to have a gun on school grounds. Teachers can bring them even if there is a policy stopping them but I think that allowing it could cause more trouble. For example, if a teacher got mad at a student and pulled the gun out in their moment of anger. It’s overall safer to not have them on school grounds.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1700_A",
+	"responseid1" : "R_2rI8ZYcICVYQFBd",
+	"name_arg2" : "I strongly oppose allowing teachers and school officials to carry guns in K-12 schools for several compelling reasons. Mainly, the primary role of educators and school staff is to provide a safe and nurturing learning environment for students. Introducing firearms into this equation poses the risk of accidents, confusion, and undue stress on educators who should focus on teaching. Moreover, arming teachers can have adverse psychological effects on students, making them feel unsafe and potentially damaging the teacher-student relationship, which should be built on trust and mentorship rather than fear. Law enforcement and security personnel are better equipped to handle potentially dangerous situations, and investing in professional security measures and mental health support for students and staff is a more effective and responsible approach to ensuring school safety. This way, we can maintain the sanctity of our educational environments while addressing safety concerns through the appropriate channels.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1628_A",
+	"responseid2" : "R_3QLU8GuWvrRoAmF",
+	"name_arg3" : "Many people argue over gun control of whether it needs to be strengthened or not. In my personal opinion, it needs to be strengthened. Guns have no right to be on a school's campus. We shouldn't have to debate whether or not to arm teachers. If teachers had access to guns, imagine how dangerous it would be if an angry/uneducated student got a hold of the gun. It would be an even larger issue. The government needs to focus on gun control before they equip teachers with guns.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1409_B",
+	"responseid3" : "R_ZfztTtlruWruz61",
+	"name_arg4" : "Guns are dangerous no matter who is holding them and children shouldn't be exposed to them in any way. Having a school shooter come to your school is not going to be fixed by another person in the building also having a gun more guns don't stop the shooting they just make it worse and endanger more people. Also, in order for this to happen every teacher and staff would need to have formal gun training and safety so that they knew what they were doing and did not let a kid get a hold of it and that would be really expensive. Adding more guns will just scare more people, scare more kids.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1691_B",
+	"responseid4" : "R_2dYMNt3z5NQkzvj"
+}

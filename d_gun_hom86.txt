@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I strongly oppose allowing teachers to carry guns in schools. The situation is like fighting fire with fire---it would only make the situation worse. Sure, it may help in some occasions, but I believe the cons outweigh the pros. Not every teacher or school official is responsible enough to carry guns around children. Some teachers get frustrated with students very easily, which could lead to an outburst involving the gun. Personally, one of my principals was arrested for DUI a few years back. If they cannot be trusted to drive, how can they be trusted to carry guns in an area with lots of people? Many other teachers have been arrested or accused of other violent crimes, who's to say letting them use guns in school won't increase that? Students can be the problem too. Some could attack the teacher and steal the gun from them, so now a student who probably does not know how to use a gun is in control of it. Who is to say they also won't just start shooting everywhere? It is far too dangerous.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1586_A",
+	"responseid1" : "R_1KpeBRkmr5iLGcO",
+	"name_arg2" : "It can be argued that the idea of school officials and teachers having guns creates unsafe opportunities and allows for less strict gun control. However, allowing these people specifically to carry small, concealed firearms, for example, can actually serve as a preventative measure in stopping school-related shootings and homicides in and around school areas. I go to a university where there was a recent shooting, and I know for a fact that this shooting could have been thwarted or stopped if officials were allowed to carry firearms. I am certain this could also be the case in K-12 schools, where potentially threatening individuals are more likely to be.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1469_B",
+	"responseid2" : "R_3MEvKQnh7s9cJMJ",
+	"name_arg3" : "The only reason that an educator would need a gun would be to protect themselves and their students from other guns. So instead of fueling fire with fire, we should aim to get to the root of the problem - unregulated access to firearms. With comprehensive gun laws and thorough background checks there would be no other reason why a teacher would need a gun in a K-12 school.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1152_A",
+	"responseid3" : "R_9mlWe7zazLsVRV7",
+	"name_arg4" : "Isn't the point of preventing school shootings is that we want to remove guns entirely from a school building? What benefit would it be for a teacher to have a gun in the classroom, when the students can easily access the gun. There are too many factors for missuse and mistakes that could be very harmful, and it is not worth the risk to introduce guns to the classroom as a means of curbing shootings.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1458_A",
+	"responseid4" : "R_2UbwEMvI1aR7rAB"
+}

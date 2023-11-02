@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "While I can understand why having guns in the school will give peace of mind and protection for our youth and their caretakers, this would create another dangerous issue. How many videos are seen these days of teachers and students getting into physical altercations. Now imagine if their was a gun within reaching distance. You can look at road rage circumstances for example, small altercations quickly blow up into shots being fired. Teachers and students are simply too emotionally involved to have access to such a weapon",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1668_A",
+	"responseid1" : "R_2zSb5ZTN6bq8jsI",
+	"name_arg2" : "Most school shooters are students and would be on campus with guns every day if this is the case. Most teachers would not be able to stop an aggressive student attempting to take their gun. I think guns on campus would not raise safety but raise paranoia. Teachers are not trained to be professionals with firearms, and they shouldn't have to be.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1490_A",
+	"responseid2" : "R_24cjSSU8sBNcjes",
+	"name_arg3" : "Simply, we do not need more guns. A gun being in a school already would allow someone will ill intentions to be able to more easily gain access to it. The money that could be used to buy a gun for each teacher and train them on how to use them could instead be used on security measures to protect a school from potential attackers.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1514_A",
+	"responseid3" : "R_1oce2SGAl6olyKY",
+	"name_arg4" : "There is no reason teachers should be carrying a firearm in schools. I feel that many educators do not adequately no how to properly use a gun and this policy would ultimately make the situation more dangerous than it already is. Instead, our government needs to focus on taking guns away from those who shouldn’t have them and putting the necessary protections in place to stop dangerous people from getting a gun.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1391_B",
+	"responseid4" : "R_1LYbt9ob44kkjqw"
+}

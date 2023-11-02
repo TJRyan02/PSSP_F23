@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I think that no individual besides a trusted police officer should be able to have a gun on school grounds. Teachers can bring them even if there is a policy stopping them but I think that allowing it could cause more trouble. For example, if a teacher got mad at a student and pulled the gun out in their moment of anger. It’s overall safer to not have them on school grounds.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1700_A",
+	"responseid1" : "R_2rI8ZYcICVYQFBd",
+	"name_arg2" : "There is no reason teachers should be carrying a firearm in schools. I feel that many educators do not adequately no how to properly use a gun and this policy would ultimately make the situation more dangerous than it already is. Instead, our government needs to focus on taking guns away from those who shouldn’t have them and putting the necessary protections in place to stop dangerous people from getting a gun.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1391_B",
+	"responseid2" : "R_1LYbt9ob44kkjqw",
+	"name_arg3" : "Opposing the idea of allowing teachers and school officials to carry guns in K-12 schools is rooted in a commitment to the safety and well-being of students and the belief that alternative solutions are more effective and less risky. First and foremost, introducing firearms into educational environments increases the potential for accidents and unintended harm. Teachers are primarily trained to educate, not to handle life-threatening situations, and arming them could lead to unintentional firearm discharges, endangering both students and educators.<br><br>Furthermore, the presence of guns in schools may create an atmosphere of fear and anxiety among students. Learning is most effective in a safe and nurturing environment, and the introduction of firearms can undermine this atmosphere, potentially causing emotional distress and hindering the educational experience.<br><br>Advocates for arming teachers argue that it could deter potential shooters, but evidence suggests otherwise. In high-stress situations, even trained professionals sometimes make critical errors, and expecting educators to serve as the first line of defense against armed attackers is unrealistic and unfair. It could place undue stress on teachers, affecting their ability to teach effectively.<br><br>A better approach to school safety is investing in comprehensive measures such as improved mental health support, enhanced security infrastructure, and stricter gun control laws. These solutions address the root causes of school violence and provide a safer and more sustainable path to protecting our students.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1459_B",
+	"responseid3" : "R_3Kuroq9ogzGPCon",
+	"name_arg4" : "I whole early stick with my opposition of teachers and school officials carrying guns in K-12 schools. Due to lack of education on weapons, even individuals with safe usage lack the ability to safely use and store a gun. In light of recent events, I feel as the issue isn't necesarrily guns its a mental health issue. I feel as if teachers or anyone in generally would have to go through extensive screening to be able to do so.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1291_B",
+	"responseid4" : "R_1gHjbL2DMHKGr7e"
+}

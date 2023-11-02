@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Teachers do not need to be armed, regardless if they are properly trained. While some argue it could aid in defense, the root of the problem should be addressed instead of trying to combat. Teachers should not have to defend their students from mass-shooting threats. Instead, the cause of these school shootings needs to be investigated and prevented.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1201_B",
+	"responseid1" : "R_3PM5XwMJoMsADbZ",
+	"name_arg2" : "Most school shooters are students and would be on campus with guns every day if this is the case. Most teachers would not be able to stop an aggressive student attempting to take their gun. I think guns on campus would not raise safety but raise paranoia. Teachers are not trained to be professionals with firearms, and they shouldn't have to be.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1490_A",
+	"responseid2" : "R_24cjSSU8sBNcjes",
+	"name_arg3" : "Introducing guns to teachers would inadvertently create a culture advocating for guns. Using guns in general as the main antithesis of gun violence in schools is absurd. <br>Accidents would increase. Consequentially... <br>Cost of training would also need to be considered (it often is not). Teachers would need extensive, expensive firearm training to be allowed to wield weapons around literal children. <br>Firearms should inherently not be around kids. Giving teachers guns would be a slap in the face of child safety concerns.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1674_A",
+	"responseid3" : "R_1CgyUBLoDqmvxlV",
+	"name_arg4" : "I believe that gun laws as a whole should be severely evaluated in this nation. The amount of gun violence that occurs is absolutely horrible, however, I don't think equipping schools with guns would help to solve that problem. The root of the issue lies within individuals who can access guns in the first place, so I think that should be addressed first.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1565_B",
+	"responseid4" : "R_1EWgyY4ZDVzZ2v3"
+}

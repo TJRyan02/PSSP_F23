@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Introducing guns to teachers would inadvertently create a culture advocating for guns. Using guns in general as the main antithesis of gun violence in schools is absurd. <br>Accidents would increase. Consequentially... <br>Cost of training would also need to be considered (it often is not). Teachers would need extensive, expensive firearm training to be allowed to wield weapons around literal children. <br>Firearms should inherently not be around kids. Giving teachers guns would be a slap in the face of child safety concerns.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1674_A",
+	"responseid1" : "R_1CgyUBLoDqmvxlV",
+	"name_arg2" : "Giving guns to teachers isn't going to solve the issue of school shootings. A teacher's primary purpose is to teach, putting a gun in their hands is a safety risk because the likely case is they do not know how to properly use a gun. If a teacher is careless and forgets to lock the gun away, it poses a risk. It would also cost money and investment to buy guns and train teachers how to use them in school and that money could be invested better into making the school better. Overall, it just poses unnecessary risks and costs money.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1275_B",
+	"responseid2" : "R_1P02jwaCq21f34O",
+	"name_arg3" : "I believe teachers should not be allowed to carry guns because it could pose significant safety risks and potentially lead to more harm than good. The primary responsibility of teachers is to educate and create a safe learning environment for students. Introducing firearms into schools could increase the chances of accidents, misuse, or escalation of violence. It is important to focus on implementing effective school safety measures, such as improved security protocols and mental health support, to ensure the well-being of students and staff.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1032_A",
+	"responseid3" : "R_2zdvL0atShg1Ntp",
+	"name_arg4" : "I think having K-12 teachers carrying guns is an accident waiting to happen. How do we know that a teacher won't have a mental break down and start shooting at the kids. What if a child gets a hold of the gun and starts shooting not only the teachers but the students as well. Furthermore, this can cause students to be scared to be at school or make it seem that it is normal for people to carry guns to school.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1491_B",
+	"responseid4" : "R_1JK4vvpCszt45AQ"
+}

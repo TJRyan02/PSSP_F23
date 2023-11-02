@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Introducing guns to teachers would inadvertently create a culture advocating for guns. Using guns in general as the main antithesis of gun violence in schools is absurd. <br>Accidents would increase. Consequentially... <br>Cost of training would also need to be considered (it often is not). Teachers would need extensive, expensive firearm training to be allowed to wield weapons around literal children. <br>Firearms should inherently not be around kids. Giving teachers guns would be a slap in the face of child safety concerns.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1674_A",
+	"responseid1" : "R_1CgyUBLoDqmvxlV",
+	"name_arg2" : "1. Guns are generally terrifying. I can’t trust my teachers to be unbiased and not feel “threatened” by me because of stereotypes they could have about me due to my race and gender. Knowing that they have guns would scare me to even slightly tick them off because what if they lose it on me for some reason. I don’t want to die because their coffee wasn’t great today and I asked a “dumb” question",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1228_A",
+	"responseid2" : "R_1dmhoIA2BHEu0iW",
+	"name_arg3" : "Teachers do not need to be armed, regardless if they are properly trained. While some argue it could aid in defense, the root of the problem should be addressed instead of trying to combat. Teachers should not have to defend their students from mass-shooting threats. Instead, the cause of these school shootings needs to be investigated and prevented.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1201_B",
+	"responseid3" : "R_3PM5XwMJoMsADbZ",
+	"name_arg4" : "I would truly like to understand more about the training teachers undergo when carrying an armed weapon on campus. Several teachers recently have had outbursts and come to teach their classes intoxicated which poses a severe threat to the school and students in the classrooms. Guns are one of the most controversial topics and teachers being armed in classrooms may go through bad days which could potentially cost the lives of several students. The mental health crisis specifically proves that several professors are not capable of being armed as they are too affected.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1723_B",
+	"responseid4" : "R_12g3saaU1EO4ICs"
+}

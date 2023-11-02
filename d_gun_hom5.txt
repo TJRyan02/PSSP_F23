@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Introducing more guns into schools is not a good idea as it can hugely increase the risk of accidents. It is also possible that there will be attempts from students to take these guns to scare and possibly even injure fellow students. Schools are already a volatile environment, and introducing more guns is unlikely to ameliorate this situation.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1762_A",
+	"responseid1" : "R_1lnuUsxNXtLDm4j",
+	"name_arg2" : "Putting guns in more under-qualified people's hands is a colossal mistake. WIthout proper training and procedures, carrying a firearm could put more students and faculty at risk. Having weapons available in each classroom could lead to more shootings happening in schools as there would be plentiful access to these guns.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1242_A",
+	"responseid2" : "R_ehNlx7oPHhci7cJ",
+	"name_arg3" : "I oppose allowing teachers and school officials to carry guns in K - 12 schools because I think the presence of guns will instill fear among students. I think the actual issue is keep shooters out and not focusing on what to do when they get in. I think there should be a stronger police presence on school campuses through SRO's because they have the necessary training with guns and active shooter situations. I do not think that it is appropriate for teachers to casually have guns in classrooms but that is not to say that I do not think that something must be done to prevent school shootings. I just don't think teachers having guns is the answer.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1271_B",
+	"responseid3" : "R_2ruNn3wzHwfvntp",
+	"name_arg4" : "Teachers and school officials should not be able to carry guns in K-12 schools as it will create more anxiety and a lack of trust between teachers and students. Furthermore, guns should not be allowed at school even as a \"means of protection\" as they ultimately will create more harm than good even in the event of an emergency. It also brings about the idea that students could potentially look to steal the guns and provides another route of access for people who should not be in possession of guns to acquire them.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1664_A",
+	"responseid4" : "R_1ps2TnFt7MDnhmr"
+}

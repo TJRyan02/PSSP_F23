@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Guns are dangerous in general, so I don't think having guns around children is smart at all. I think having guns in the classroom would also create an environment were children don't feel safe. If a teacher needs a gun in the classroom for safety reasons then the children probability need to be scared of some outside threat, but outside threats can be decreased by better security in public schools. Better security meaning metal detecters, a closed perimeter in around every school, and locks on the doors.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1063_B",
+	"responseid1" : "R_9QY3pueoFffDAMV",
+	"name_arg2" : "I've never believed that fighting fire with fire is a viable option for creating harmony. Gun violence has become a nationwide fear, especially in our schools. Recently, school campuses have become breeding grounds for targeted attacks on innocent individuals. The security of campuses is entirely lacking, which I agree with. However, placing another opportunity for physical harm in the hands of superiors is not a viable solution to this problem. Any impact on gun violence in our nation will be done through preventative measures, not reactionary ones. Giving arms to teachers, even if they are certified, will also open up the opportunity for even more tragedies at the hands of bad individuals. As far as schools, no one functioning within them should have the opportunity to seriously injure others. There will always be people in this world who want to do seriously awful things, but any momentary defense won't solve the problem, it will only further perpetrate the action at hand.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1326_A",
+	"responseid2" : "R_1RgGMFzLIhlnfq1",
+	"name_arg3" : "I think that no individual besides a trusted police officer should be able to have a gun on school grounds. Teachers can bring them even if there is a policy stopping them but I think that allowing it could cause more trouble. For example, if a teacher got mad at a student and pulled the gun out in their moment of anger. It’s overall safer to not have them on school grounds.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1700_A",
+	"responseid3" : "R_2rI8ZYcICVYQFBd",
+	"name_arg4" : "There is no reason teachers should be carrying a firearm in schools. I feel that many educators do not adequately no how to properly use a gun and this policy would ultimately make the situation more dangerous than it already is. Instead, our government needs to focus on taking guns away from those who shouldn’t have them and putting the necessary protections in place to stop dangerous people from getting a gun.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1391_B",
+	"responseid4" : "R_1LYbt9ob44kkjqw"
+}

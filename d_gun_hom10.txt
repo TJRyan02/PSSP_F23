@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Teachers and school officials should absolutely not be allowed to carry guns in K-12 schools. Imagine all of the issues we have now in our education system: racism, sexism, etc. If a teacher was having a bad day, and believe me I've seen some of my teachers have extremely bad days, what's to stop a psychotic break and let all chaos run loose. Additionally, it is preposterous to place a gun within the grasp of a child, especially those in elementary school. Truly anything could happen and this approach is not even slapping a bandaid over a bullet wound, its an approach that would rip that bullet wound even wider and deeper if implemented.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1292_A",
+	"responseid1" : "R_2fvonDsKEoaZbHr",
+	"name_arg2" : "Guns are dangerous no matter who is holding them and children shouldn't be exposed to them in any way. Having a school shooter come to your school is not going to be fixed by another person in the building also having a gun more guns don't stop the shooting they just make it worse and endanger more people. Also, in order for this to happen every teacher and staff would need to have formal gun training and safety so that they knew what they were doing and did not let a kid get a hold of it and that would be really expensive. Adding more guns will just scare more people, scare more kids.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1691_B",
+	"responseid2" : "R_2dYMNt3z5NQkzvj",
+	"name_arg3" : "I believe teachers should not be allowed to carry guns because it could pose significant safety risks and potentially lead to more harm than good. The primary responsibility of teachers is to educate and create a safe learning environment for students. Introducing firearms into schools could increase the chances of accidents, misuse, or escalation of violence. It is important to focus on implementing effective school safety measures, such as improved security protocols and mental health support, to ensure the well-being of students and staff.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1032_A",
+	"responseid3" : "R_2zdvL0atShg1Ntp",
+	"name_arg4" : "Simply, we do not need more guns. A gun being in a school already would allow someone will ill intentions to be able to more easily gain access to it. The money that could be used to buy a gun for each teacher and train them on how to use them could instead be used on security measures to protect a school from potential attackers.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1514_A",
+	"responseid4" : "R_1oce2SGAl6olyKY"
+}

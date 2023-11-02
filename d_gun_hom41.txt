@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Isn't the point of preventing school shootings is that we want to remove guns entirely from a school building? What benefit would it be for a teacher to have a gun in the classroom, when the students can easily access the gun. There are too many factors for missuse and mistakes that could be very harmful, and it is not worth the risk to introduce guns to the classroom as a means of curbing shootings.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1458_A",
+	"responseid1" : "R_2UbwEMvI1aR7rAB",
+	"name_arg2" : "Guns should not be allowed on school property, apart from law enforcement officers! These politicians who advocate for policies like this are hypocrites. Guns aren't allowed in their government buildings or their offices, so why are they trying to put this burden on teachers? I think if you want to increase security, increasing law enforcement personnel on campus could be a start. Additionally, I am in favor of stricter gun laws that would force consumers to jump through more hoops to purchase a firearm. I'm not a proponent of banning guns, don't get it twisted. However, I think we could be doing more in the legislature to prevent gun violence.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1802_A",
+	"responseid2" : "R_2B4pBpqWUBja69B",
+	"name_arg3" : "I would truly like to understand more about the training teachers undergo when carrying an armed weapon on campus. Several teachers recently have had outbursts and come to teach their classes intoxicated which poses a severe threat to the school and students in the classrooms. Guns are one of the most controversial topics and teachers being armed in classrooms may go through bad days which could potentially cost the lives of several students. The mental health crisis specifically proves that several professors are not capable of being armed as they are too affected.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1723_B",
+	"responseid3" : "R_12g3saaU1EO4ICs",
+	"name_arg4" : "Introducing more guns into schools is not a good idea as it can hugely increase the risk of accidents. It is also possible that there will be attempts from students to take these guns to scare and possibly even injure fellow students. Schools are already a volatile environment, and introducing more guns is unlikely to ameliorate this situation.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1762_A",
+	"responseid4" : "R_1lnuUsxNXtLDm4j"
+}

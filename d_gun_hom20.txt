@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "The only reason that an educator would need a gun would be to protect themselves and their students from other guns. So instead of fueling fire with fire, we should aim to get to the root of the problem - unregulated access to firearms. With comprehensive gun laws and thorough background checks there would be no other reason why a teacher would need a gun in a K-12 school.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1152_A",
+	"responseid1" : "R_9mlWe7zazLsVRV7",
+	"name_arg2" : "Teachers do not need to be armed, regardless if they are properly trained. While some argue it could aid in defense, the root of the problem should be addressed instead of trying to combat. Teachers should not have to defend their students from mass-shooting threats. Instead, the cause of these school shootings needs to be investigated and prevented.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1201_B",
+	"responseid2" : "R_3PM5XwMJoMsADbZ",
+	"name_arg3" : "Teachers and school officials should not be able to carry guns in K-12 schools as it will create more anxiety and a lack of trust between teachers and students. Furthermore, guns should not be allowed at school even as a \"means of protection\" as they ultimately will create more harm than good even in the event of an emergency. It also brings about the idea that students could potentially look to steal the guns and provides another route of access for people who should not be in possession of guns to acquire them.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1664_A",
+	"responseid3" : "R_1ps2TnFt7MDnhmr",
+	"name_arg4" : "As someone who has been through two school shootings at UNC, I do not think teachers carrying guns would help solve the problems. From my experience, it would not be very effective as many teachers would not want to follow through with shooting. I think the real way to solve this issue is to limit gun control, not encourage the use of more guns.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1321_B",
+	"responseid4" : "R_3DdWEY108nrUgSl"
+}

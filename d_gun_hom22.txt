@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Introducing guns to teachers would inadvertently create a culture advocating for guns. Using guns in general as the main antithesis of gun violence in schools is absurd. <br>Accidents would increase. Consequentially... <br>Cost of training would also need to be considered (it often is not). Teachers would need extensive, expensive firearm training to be allowed to wield weapons around literal children. <br>Firearms should inherently not be around kids. Giving teachers guns would be a slap in the face of child safety concerns.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1674_A",
+	"responseid1" : "R_1CgyUBLoDqmvxlV",
+	"name_arg2" : "I don't believe that the answer to gun violence in schools is more guns at school. While teachers may be trained and own personal weapons I don't think schools are the place for them to bring them. I would rather schools invest in safety measures and potentially allowing SRO's to carry guns.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1488_A",
+	"responseid2" : "R_aayZpaKVop4Q6qt",
+	"name_arg3" : "Guns are dangerous no matter who is holding them and children shouldn't be exposed to them in any way. Having a school shooter come to your school is not going to be fixed by another person in the building also having a gun more guns don't stop the shooting they just make it worse and endanger more people. Also, in order for this to happen every teacher and staff would need to have formal gun training and safety so that they knew what they were doing and did not let a kid get a hold of it and that would be really expensive. Adding more guns will just scare more people, scare more kids.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1691_B",
+	"responseid3" : "R_2dYMNt3z5NQkzvj",
+	"name_arg4" : "Giving teachers does not solve or prevent gun violence in schools. It should not be the teachers responsibility to defend their students with guns. We should be focusing more on removing the threat of guns entirely by introducing stricter gun regulation and education in schools. Having guns in school also poses a danger, if a child was to gain access it.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1053_B",
+	"responseid4" : "R_3O2isZdF1aFVDq7"
+}

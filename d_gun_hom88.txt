@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Teachers and school officials should absolutely not be allowed to carry guns in K-12 schools. Imagine all of the issues we have now in our education system: racism, sexism, etc. If a teacher was having a bad day, and believe me I've seen some of my teachers have extremely bad days, what's to stop a psychotic break and let all chaos run loose. Additionally, it is preposterous to place a gun within the grasp of a child, especially those in elementary school. Truly anything could happen and this approach is not even slapping a bandaid over a bullet wound, its an approach that would rip that bullet wound even wider and deeper if implemented.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1292_A",
+	"responseid1" : "R_2fvonDsKEoaZbHr",
+	"name_arg2" : "I do not think that adding guns to schools makes schools safer. The issue is the guns are as easy as they are to access in the first place. If we already have guns in the schools, the risk may run higher for someone to locate the gun. In my opinion, it does not make schools safe, but arguably unsafer.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1607_B",
+	"responseid2" : "R_3LbDIVDZ0mOKYhR",
+	"name_arg3" : "Having armed teachers in schools is likely one of the most dangerous things that could happen. If teachers are allowed access to weaponry without the necessary safety protocols to go along with them, these teachers are becoming equally as dangerous as anyone they'd be protecting from. Also, this puts very dangerous weaponry in very close proximity to the children being taught. This could put students at risk if other students decide to take advantage of the weapons and create chaos.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1603_B",
+	"responseid3" : "R_3RykDkP4C0Ac0NP",
+	"name_arg4" : "There is no reason teachers should be carrying a firearm in schools. I feel that many educators do not adequately no how to properly use a gun and this policy would ultimately make the situation more dangerous than it already is. Instead, our government needs to focus on taking guns away from those who shouldn’t have them and putting the necessary protections in place to stop dangerous people from getting a gun.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1391_B",
+	"responseid4" : "R_1LYbt9ob44kkjqw"
+}

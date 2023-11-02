@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I oppose allowing teachers and school officials to carry guns in K - 12 schools because I think the presence of guns will instill fear among students. I think the actual issue is keep shooters out and not focusing on what to do when they get in. I think there should be a stronger police presence on school campuses through SRO's because they have the necessary training with guns and active shooter situations. I do not think that it is appropriate for teachers to casually have guns in classrooms but that is not to say that I do not think that something must be done to prevent school shootings. I just don't think teachers having guns is the answer.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1271_B",
+	"responseid1" : "R_2ruNn3wzHwfvntp",
+	"name_arg2" : "While I can understand why having guns in the school will give peace of mind and protection for our youth and their caretakers, this would create another dangerous issue. How many videos are seen these days of teachers and students getting into physical altercations. Now imagine if their was a gun within reaching distance. You can look at road rage circumstances for example, small altercations quickly blow up into shots being fired. Teachers and students are simply too emotionally involved to have access to such a weapon",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1668_A",
+	"responseid2" : "R_2zSb5ZTN6bq8jsI",
+	"name_arg3" : "The issue of guns cannot be fought with more guns. Although I am pro the idea of giving the children and their parents a feeling of safety, having a gun in the classroom is extremely unsafe for the children, and there is no guarantee that the teachers can bar the children from reaching it or even to use it in a moment of frustration.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1197_B",
+	"responseid3" : "R_1FnpSUUm0LDRPCl",
+	"name_arg4" : "Teachers do not need to be armed, regardless if they are properly trained. While some argue it could aid in defense, the root of the problem should be addressed instead of trying to combat. Teachers should not have to defend their students from mass-shooting threats. Instead, the cause of these school shootings needs to be investigated and prevented.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1201_B",
+	"responseid4" : "R_3PM5XwMJoMsADbZ"
+}

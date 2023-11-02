@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "There is no reason to be carrying guns in an academic space. Guns cannot protect against guns, they can only lead to more violence. Money spent on purchasing guns can be moved towards education classes towards how to handle mental illness in classrooms and allowing for schools to have protections against guns, like bulletproof glass.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1129_B",
+	"responseid1" : "R_22Sacfv7c0VKpSv",
+	"name_arg2" : "Giving guns to teachers isn't going to solve the issue of school shootings. A teacher's primary purpose is to teach, putting a gun in their hands is a safety risk because the likely case is they do not know how to properly use a gun. If a teacher is careless and forgets to lock the gun away, it poses a risk. It would also cost money and investment to buy guns and train teachers how to use them in school and that money could be invested better into making the school better. Overall, it just poses unnecessary risks and costs money.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1275_B",
+	"responseid2" : "R_1P02jwaCq21f34O",
+	"name_arg3" : "Giving teachers does not solve or prevent gun violence in schools. It should not be the teachers responsibility to defend their students with guns. We should be focusing more on removing the threat of guns entirely by introducing stricter gun regulation and education in schools. Having guns in school also poses a danger, if a child was to gain access it.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1053_B",
+	"responseid3" : "R_3O2isZdF1aFVDq7",
+	"name_arg4" : "Guns should not be allowed on school property, apart from law enforcement officers! These politicians who advocate for policies like this are hypocrites. Guns aren't allowed in their government buildings or their offices, so why are they trying to put this burden on teachers? I think if you want to increase security, increasing law enforcement personnel on campus could be a start. Additionally, I am in favor of stricter gun laws that would force consumers to jump through more hoops to purchase a firearm. I'm not a proponent of banning guns, don't get it twisted. However, I think we could be doing more in the legislature to prevent gun violence.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1802_A",
+	"responseid4" : "R_2B4pBpqWUBja69B"
+}

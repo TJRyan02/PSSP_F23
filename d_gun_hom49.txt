@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I think having K-12 teachers carrying guns is an accident waiting to happen. How do we know that a teacher won't have a mental break down and start shooting at the kids. What if a child gets a hold of the gun and starts shooting not only the teachers but the students as well. Furthermore, this can cause students to be scared to be at school or make it seem that it is normal for people to carry guns to school.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1491_B",
+	"responseid1" : "R_1JK4vvpCszt45AQ",
+	"name_arg2" : "Giving guns to teachers isn't going to solve the issue of school shootings. A teacher's primary purpose is to teach, putting a gun in their hands is a safety risk because the likely case is they do not know how to properly use a gun. If a teacher is careless and forgets to lock the gun away, it poses a risk. It would also cost money and investment to buy guns and train teachers how to use them in school and that money could be invested better into making the school better. Overall, it just poses unnecessary risks and costs money.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1275_B",
+	"responseid2" : "R_1P02jwaCq21f34O",
+	"name_arg3" : "While I can understand why having guns in the school will give peace of mind and protection for our youth and their caretakers, this would create another dangerous issue. How many videos are seen these days of teachers and students getting into physical altercations. Now imagine if their was a gun within reaching distance. You can look at road rage circumstances for example, small altercations quickly blow up into shots being fired. Teachers and students are simply too emotionally involved to have access to such a weapon",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1668_A",
+	"responseid3" : "R_2zSb5ZTN6bq8jsI",
+	"name_arg4" : "Why should educators have to die in the name of saving their students. No amount of training would justify having teachers carry guns, and bringing guns into classrooms and schools would make them less safe. Instead of arming teachers why can’t we increase mental health resources and gun control for minors.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1062_A",
+	"responseid4" : "R_Zh1Tu6GzmWDGf1D"
+}

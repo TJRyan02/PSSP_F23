@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Voluntarily introducing guns into the exact places where guns have ravaged the lives of innocent children is simply counter-intuitive. Just as drugs, fights, and classroom disruptions have no place in a learning environment, weapons do not either. Furthermore, imagine being 5-years-old, entering your Kindergarten classroom for the first time, and seeing a pistol holstered on your smiling teachers hip. It's dystopian. Children are taught from a very young age to understand that guns mean violence. The purpose of a gun is to kill. Why bring this threat to children in the classroom?",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1529_B",
+	"responseid1" : "R_PNTtY3utdG5ozst",
+	"name_arg2" : "Teachers do not need to be armed, regardless if they are properly trained. While some argue it could aid in defense, the root of the problem should be addressed instead of trying to combat. Teachers should not have to defend their students from mass-shooting threats. Instead, the cause of these school shootings needs to be investigated and prevented.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1201_B",
+	"responseid2" : "R_3PM5XwMJoMsADbZ",
+	"name_arg3" : "Why should educators have to die in the name of saving their students. No amount of training would justify having teachers carry guns, and bringing guns into classrooms and schools would make them less safe. Instead of arming teachers why can’t we increase mental health resources and gun control for minors.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1062_A",
+	"responseid3" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg4" : "I do not think that adding guns to schools makes schools safer. The issue is the guns are as easy as they are to access in the first place. If we already have guns in the schools, the risk may run higher for someone to locate the gun. In my opinion, it does not make schools safe, but arguably unsafer.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1607_B",
+	"responseid4" : "R_3LbDIVDZ0mOKYhR"
+}

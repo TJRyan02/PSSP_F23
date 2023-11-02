@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "The issue of guns cannot be fought with more guns. Although I am pro the idea of giving the children and their parents a feeling of safety, having a gun in the classroom is extremely unsafe for the children, and there is no guarantee that the teachers can bar the children from reaching it or even to use it in a moment of frustration.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1197_B",
+	"responseid1" : "R_1FnpSUUm0LDRPCl",
+	"name_arg2" : "There is no reason to be carrying guns in an academic space. Guns cannot protect against guns, they can only lead to more violence. Money spent on purchasing guns can be moved towards education classes towards how to handle mental illness in classrooms and allowing for schools to have protections against guns, like bulletproof glass.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1129_B",
+	"responseid2" : "R_22Sacfv7c0VKpSv",
+	"name_arg3" : "Giving guns to teachers and school officials may seem like a solution to threats that appear in school zones, but it doesn't take into account the training it would require, the new threats that could appear (like a child getting their hands on said firearm) due to the potential of an adult mishandling their responsibility with the firearm, and the new fear of knowing your teacher or administrators have a gun with them.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1344_A",
+	"responseid3" : "R_1f6E8YRISyHyk3I",
+	"name_arg4" : "Why should educators have to die in the name of saving their students. No amount of training would justify having teachers carry guns, and bringing guns into classrooms and schools would make them less safe. Instead of arming teachers why can’t we increase mental health resources and gun control for minors.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1062_A",
+	"responseid4" : "R_Zh1Tu6GzmWDGf1D"
+}

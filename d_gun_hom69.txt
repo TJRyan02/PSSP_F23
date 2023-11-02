@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Guns are dangerous no matter who is holding them and children shouldn't be exposed to them in any way. Having a school shooter come to your school is not going to be fixed by another person in the building also having a gun more guns don't stop the shooting they just make it worse and endanger more people. Also, in order for this to happen every teacher and staff would need to have formal gun training and safety so that they knew what they were doing and did not let a kid get a hold of it and that would be really expensive. Adding more guns will just scare more people, scare more kids.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1691_B",
+	"responseid1" : "R_2dYMNt3z5NQkzvj",
+	"name_arg2" : "I believe teachers should not be allowed to carry guns because it could pose significant safety risks and potentially lead to more harm than good. The primary responsibility of teachers is to educate and create a safe learning environment for students. Introducing firearms into schools could increase the chances of accidents, misuse, or escalation of violence. It is important to focus on implementing effective school safety measures, such as improved security protocols and mental health support, to ensure the well-being of students and staff.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1032_A",
+	"responseid2" : "R_2zdvL0atShg1Ntp",
+	"name_arg3" : "Having armed teachers in schools is likely one of the most dangerous things that could happen. If teachers are allowed access to weaponry without the necessary safety protocols to go along with them, these teachers are becoming equally as dangerous as anyone they'd be protecting from. Also, this puts very dangerous weaponry in very close proximity to the children being taught. This could put students at risk if other students decide to take advantage of the weapons and create chaos.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1603_B",
+	"responseid3" : "R_3RykDkP4C0Ac0NP",
+	"name_arg4" : "I strongly oppose allowing teachers and school officials to carry guns in K-12 schools for several compelling reasons. Mainly, the primary role of educators and school staff is to provide a safe and nurturing learning environment for students. Introducing firearms into this equation poses the risk of accidents, confusion, and undue stress on educators who should focus on teaching. Moreover, arming teachers can have adverse psychological effects on students, making them feel unsafe and potentially damaging the teacher-student relationship, which should be built on trust and mentorship rather than fear. Law enforcement and security personnel are better equipped to handle potentially dangerous situations, and investing in professional security measures and mental health support for students and staff is a more effective and responsible approach to ensuring school safety. This way, we can maintain the sanctity of our educational environments while addressing safety concerns through the appropriate channels.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1628_A",
+	"responseid4" : "R_3QLU8GuWvrRoAmF"
+}
