@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I would favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035 because we as Americans need to cut down on carbon emissions. Ending gas powered car sales will start the beginning of a greener environment for our country, and eventuallly gas-powered cars will phase out all together",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1020_A",
+	"responseid1" : "R_3m50X6bllaDD1GC",
+	"name_arg2" : "Gasoline releases an abundance of fossil fuels which contribute significantly to climate change and global warming. Although many of us may not feel the impacts yet, we will soon if we continue to produce emissions at this rate. Changes in how cars are powered makes little difference in the use by consumers (especially if subsidies keep the prices similar) yet will have significant, positive, long term effects on our planet and therefore our qualities of life.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1514_A",
+	"responseid2" : "R_1oce2SGAl6olyKY",
+	"name_arg3" : "The mining of lithium batteries has just as harsh an impact on the environment as gas-powered cars. The process of obtaining the power for electric vehicles is highly destructive and often violates many human rights in the process. Instead, we should focus on increasing and improving public transit systems and city infrastructure.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1082_A",
+	"responseid3" : "R_2Bh4rD58ADoW0Tu",
+	"name_arg4" : "Electric technology and infrastructure is being built up all over the country. There is no longer an excuse for new production of Gas Vehicles when we know that the harmful effects to the environment are greatly decreasing the quality of life for future generations. Electric vehicles are more efficient and economical for many users, and will provide stability for our future.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1174_A",
+	"responseid4" : "R_e40xob9ZIg300V3"
+}

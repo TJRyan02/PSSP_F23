@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "The mining of lithium batteries has just as harsh an impact on the environment as gas-powered cars. The process of obtaining the power for electric vehicles is highly destructive and often violates many human rights in the process. Instead, we should focus on increasing and improving public transit systems and city infrastructure.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1082_A",
+	"responseid1" : "R_2Bh4rD58ADoW0Tu",
+	"name_arg2" : "I think that this would be a great way of diminishing fossil fuels and creating less smog. Americans would be able to breathe cleaner air and also wouldn’t rely on gas(which obviously fluctuates highly in price because of gas corporations’ need for profit). Also there would be uniformity in the types of cars so individuals wouldn’t have to worry about concerns of not being able to access certain services because of what they drive.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1750_A",
+	"responseid2" : "R_3dXPzqNGo3Hrdhz",
+	"name_arg3" : "One of the main reasons is the urgency to address climate change and reduce greenhouse gas emissions. Transitioning to electric vehicles can help decrease carbon emissions and improve air quality. Additionally, advancements in electric vehicle technology have made them more accessible and practical for everyday use. The shift towards electric vehicles also promotes innovation and investment in renewable energy sources. Ultimately, the goal is to create a more sustainable and environmentally friendly transportation system.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1032_A",
+	"responseid3" : "R_2zdvL0atShg1Ntp",
+	"name_arg4" : "I favor the sale of gas-powered cars and trucks ending entirely by 2035 because of carbon emissions. Most carbon emissions come from corporations and they do a lot of travel by land. Think of Amazon and how fast they get your packages to you, if all of those trucks are powered by gas right now they are releasing so many emissions into the atmosphere and have no intention or method of taking them out. Switching to another form of transportation, like electric, would be a preventative measure that would keep these corporations in check.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1600_A",
+	"responseid4" : "R_2ROJRsV7oGUt188"
+}

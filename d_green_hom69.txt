@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I support the proposal to end the sale of new gas-powered cars and trucks by 2035. This is a crucial step in addressing climate change, as the transportation sector is a major contributor to greenhouse gas emissions. By promoting electric vehicles (EVs), we can significantly reduce carbon emissions, aligning with global efforts to combat climate change and limit temperature rise.<br><br>The transition to electric vehicles also presents economic opportunities. It can stimulate innovation, create jobs in the clean energy sector, and position the United States as a leader in the EV industry. The public health benefits are also significant, as it will lead to improved air quality, reducing health issues caused by vehicle emissions.<br><br>Ending the sale of gas-powered vehicles by 2035 is an approach that addresses climate change, fosters economic growth, and improves public health.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1721_B",
+	"responseid1" : "R_zc0ZhPjsrRHdEad",
+	"name_arg2" : "I think an important step in the transition towards more sustainable technologies is stopping the production of older and less sustainable technology. Those who have the money to purchase brand-new cars, should be presented with the choice to either purchase an older model or buy a new electric car.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1762_A",
+	"responseid2" : "R_1lnuUsxNXtLDm4j",
+	"name_arg3" : "I believe there is lots of good within the argument for green vehicles; however, ending the sales of new gas-powered cars and trucks is not a valid option. Obviously, green vehicles are safer for the environment, but a ban of sales on new gas-powered cars is not fair economically. From the few friends I know that have \"green cars\", it is an expensive endeavor. Banning gas-powered vehicles without proposing a plan to reduce the costs of green vehicles would never pass through legislation, considering most of the legislative wing would hope to represent the larger majority of Americans, who are middle, working, or lower class and probably couldn't afford a mandated switch to green vehicles. <br>In addition, green vehicles require a separate kind of energy-producer (electricity and a charge versus gas at gas stations). Banning gas-powered cars would end up costing millions, if not billions, in replacing gas stations that have less business and in replacing regular parking spots with green vehicle spots with chargers.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1674_A",
+	"responseid3" : "R_1CgyUBLoDqmvxlV",
+	"name_arg4" : "I think that this would be a great way of diminishing fossil fuels and creating less smog. Americans would be able to breathe cleaner air and also wouldn’t rely on gas(which obviously fluctuates highly in price because of gas corporations’ need for profit). Also there would be uniformity in the types of cars so individuals wouldn’t have to worry about concerns of not being able to access certain services because of what they drive.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1750_A",
+	"responseid4" : "R_3dXPzqNGo3Hrdhz"
+}

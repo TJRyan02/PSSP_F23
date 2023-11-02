@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "The mining of lithium batteries has just as harsh an impact on the environment as gas-powered cars. The process of obtaining the power for electric vehicles is highly destructive and often violates many human rights in the process. Instead, we should focus on increasing and improving public transit systems and city infrastructure.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1082_A",
+	"responseid1" : "R_2Bh4rD58ADoW0Tu",
+	"name_arg2" : "We treat corporations as people in a legal and moral sense as a nation and have forgotten that we are all united by the ideals of freedom and human rights. If we destroy the planet while drunk on oil, we will have no one else left to appreciate said freedoms.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1062_A",
+	"responseid2" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg3" : "I would favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035 because we as Americans need to cut down on carbon emissions. Ending gas powered car sales will start the beginning of a greener environment for our country, and eventuallly gas-powered cars will phase out all together",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1020_A",
+	"responseid3" : "R_3m50X6bllaDD1GC",
+	"name_arg4" : "I support slowing down of sales of gas cars, not fully selling them. In countries such as Norway, they place heavy taxes on gas and gas powered vehicles allowing people to make their own decisions when buying a car, and not being forced to choose an electric car. I also think that we do not have the infrastructure to support a fully electric car world.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1434_A",
+	"responseid4" : "R_3QE2tInTPcT6EVR"
+}

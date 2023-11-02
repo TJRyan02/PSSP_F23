@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Gasoline releases an abundance of fossil fuels which contribute significantly to climate change and global warming. Although many of us may not feel the impacts yet, we will soon if we continue to produce emissions at this rate. Changes in how cars are powered makes little difference in the use by consumers (especially if subsidies keep the prices similar) yet will have significant, positive, long term effects on our planet and therefore our qualities of life.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1514_A",
+	"responseid1" : "R_1oce2SGAl6olyKY",
+	"name_arg2" : "I understand that as a nation, we are moving towards more advanced technology, like electric cars and such, however completely ending the sale of gas-powered cars and trucks would make it difficult for individuals, particularly those with low income, to purchase electric vehicles. Unless there's a proper system for finances set up for individuals in that category, I don't think it would be the most efficient policy.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1565_B",
+	"responseid2" : "R_1EWgyY4ZDVzZ2v3",
+	"name_arg3" : "I believe that the sale of new gas-powered cars and trucks should end by 2035 due to a plethora of economic and environmental reasons. Gas prices are entirely too highly volatile and leave most Americans scrambling with a sudden rise. Additionally, by eliminating their sale, we will be able to move forward together towards a cleaner, more green future. In response to those who disagree with this opinion, I understand your apprehension but encourage you to think about the planet you want to leave your children with. At the current state we're going, your children may never know what it's like to breathe outside without a oxygen mask or remember the trees due to the concerns of CO2 production and the ozone layer.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1292_A",
+	"responseid3" : "R_2fvonDsKEoaZbHr",
+	"name_arg4" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1458_A",
+	"responseid4" : "R_2UbwEMvI1aR7rAB"
+}

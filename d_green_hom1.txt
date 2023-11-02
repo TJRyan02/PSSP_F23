@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although gas-powered vehicles are easier and cheaper to buy and use right now, some long-term benefits of ending their sale would include the increase of available natural resources and the decrease of vehicle-related carbon emissions, which are increasingly harmful to the environment and positively correlated with global warming. Thus, I favor this proposal (7/10)",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1469_B",
+	"responseid1" : "R_3MEvKQnh7s9cJMJ",
+	"name_arg2" : "Climate change presents a real and existential threat to the world as well as to the United States. Limiting the sale of gas-powered cars and trucks in favour of electric vehicles would present a route to limiting the effect of climate change, in concert with a host of other effective strategies.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1236_A",
+	"responseid2" : "R_25Ed1NRQkgBicZe",
+	"name_arg3" : "Although many may disagree, climate change is a huge issue in the world right now, and any steps taken to reduce its disastrous effects are steps that I support. If the sale of new gas-powered cars and trucks would end entirely by 2035, this would take one small step in bettering the environment and planet.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1487_B",
+	"responseid3" : "R_3nNIWTIHigMVm0H",
+	"name_arg4" : "I favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035. I favor this because I think the health of our environment should be considered extremely important and a very high priority at this point in time because of the damage that has already been done. I think that shifting from gas powered cars to electric cars is a shift that does not really negatively effect anyone so therefore it is a good place to start mending the damage done to the environment.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1271_B",
+	"responseid4" : "R_2ruNn3wzHwfvntp"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although battery powered cars and trucks have a negative environmental impact when the batteries die, it prevents carbon emissions going into the atmosphere. Currently, global warming is impacting cities worldwide, with some coastal cities being submerged underwater, destroying homes and places for people to live. Additionally, the drastic weather changes is also affected by global warming. In our current situation, it's in our best interest to pursue battery-powered cars than continue to emit carbon into the atmosphere.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1703_B",
+	"responseid1" : "R_e8zmTDOkhnhsXoR",
+	"name_arg2" : "My reason for this opinion is that Russia has the power to send a nuclear weapon across the united states that would knock out our power grid. If this were to happen electric cars would be completely useless. However, gas cars would still be able to function for a longer amount of time, especially since you can pull gas from other cars and other resources.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1700_A",
+	"responseid2" : "R_2rI8ZYcICVYQFBd",
+	"name_arg3" : "Automobiles are a leading cause of pollution and contamination impacting the Earth. If it became standard following the year 2035 that no vehicles would be sold that operated on gas-power, it wouldn't be a choice people would have to make when purchasing a vehicle. Each vehicle would already be electric-based.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1242_A",
+	"responseid3" : "R_ehNlx7oPHhci7cJ",
+	"name_arg4" : "I believe that our government needs to take extreme actions to combat climate change. Currently I feel that the actions being taken are not enough. We need to focus on green powered vehicles because they can drastically limit the impact automobiles are having on pollution and they will limit the need for natural gas consumption.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1391_B",
+	"responseid4" : "R_1LYbt9ob44kkjqw"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Electric technology and infrastructure is being built up all over the country. There is no longer an excuse for new production of Gas Vehicles when we know that the harmful effects to the environment are greatly decreasing the quality of life for future generations. Electric vehicles are more efficient and economical for many users, and will provide stability for our future.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1174_A",
+	"responseid1" : "R_e40xob9ZIg300V3",
+	"name_arg2" : "Ending the production of gas-powered cars and trucks would lead to a more sustainable environment. It would limit the amount of carbon pollution in the air, leading to the destruction of the ozone layer, and thus allow the earth to remain protected for future generations. Also, electric cars are a new business. It would increase the U.S. economy and allow for new jobs to emerge as these cars become more widespread in popularity.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1129_B",
+	"responseid2" : "R_22Sacfv7c0VKpSv",
+	"name_arg3" : "I think that this would be a great way of diminishing fossil fuels and creating less smog. Americans would be able to breathe cleaner air and also wouldn’t rely on gas(which obviously fluctuates highly in price because of gas corporations’ need for profit). Also there would be uniformity in the types of cars so individuals wouldn’t have to worry about concerns of not being able to access certain services because of what they drive.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1750_A",
+	"responseid3" : "R_3dXPzqNGo3Hrdhz",
+	"name_arg4" : "1. To reduce the dependency we have on raw materials whose supply is not assured for example Russian oil being boycotted led to a huge surge in gas prices but if we had electric/renewable power for those cars communities wouldn’t have been as disrupted.<br><br>2. The environment is going through immense degradation due to the drilling for oil and causing long lasting damage to communities eg Niger delta in Nigeria and how even after thirty years they still can’t farm or fish on their land. This harm will only continue as we persist on using oil. <br><br>3. Global Warming is increasing exponentially and action needs to occur to slow it down. Every year we are seeing the devastating tip of the iceberg of the harms we are going to face in the coming years due to the immense heat. My greatest fear is the mutation and adaptation of microbes that could not thrive in human bodies because of our warmth being able to survive in us.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1228_A",
+	"responseid4" : "R_1dmhoIA2BHEu0iW"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1023_B",
+	"responseid1" : "R_DBsoBjlQ6GPgv8B",
+	"name_arg2" : "Although I do not feel heavily educated on this, I am in favor of new-gas powered cars and trucks ending by 2035. I feel like this would have a significant change on the environment. If we use more electronically powered vehicles, it will help to prevent further damage to the environment like climate change. Climate change is something that even the little things can incredibly help, and this is one that can.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1291_B",
+	"responseid2" : "R_1gHjbL2DMHKGr7e",
+	"name_arg3" : "We treat corporations as people in a legal and moral sense as a nation and have forgotten that we are all united by the ideals of freedom and human rights. If we destroy the planet while drunk on oil, we will have no one else left to appreciate said freedoms.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1062_A",
+	"responseid3" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg4" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1458_A",
+	"responseid4" : "R_2UbwEMvI1aR7rAB"
+}

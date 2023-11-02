@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1458_A",
+	"responseid1" : "R_2UbwEMvI1aR7rAB",
+	"name_arg2" : "Although many may disagree, climate change is a huge issue in the world right now, and any steps taken to reduce its disastrous effects are steps that I support. If the sale of new gas-powered cars and trucks would end entirely by 2035, this would take one small step in bettering the environment and planet.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1487_B",
+	"responseid2" : "R_3nNIWTIHigMVm0H",
+	"name_arg3" : "I think that this would be a great way of diminishing fossil fuels and creating less smog. Americans would be able to breathe cleaner air and also wouldn’t rely on gas(which obviously fluctuates highly in price because of gas corporations’ need for profit). Also there would be uniformity in the types of cars so individuals wouldn’t have to worry about concerns of not being able to access certain services because of what they drive.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1750_A",
+	"responseid3" : "R_3dXPzqNGo3Hrdhz",
+	"name_arg4" : "I think that there are several prominent studies showing the effect of emissions from cars on the climate crisis. One of the major hurdles in this process of slowing the climate crisis is that car companies are not incentivized to produce these cars. If we can show that there is something in it for the car companies, we can take a proactive step into reversing the climate crisis.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1151_B",
+	"responseid4" : "R_2CEcBYbQ9lXPIsV"
+}

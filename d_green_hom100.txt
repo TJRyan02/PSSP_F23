@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I would favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035 because we as Americans need to cut down on carbon emissions. Ending gas powered car sales will start the beginning of a greener environment for our country, and eventuallly gas-powered cars will phase out all together",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1020_A",
+	"responseid1" : "R_3m50X6bllaDD1GC",
+	"name_arg2" : "I favored the proposal because ending gas-powered cars and trucks will help solve two major issues. The first issue it would aid is global warming, as electric cars are probably better for the environment. Second, this would solve the issue of the gas shortage, which is making gas prices sour. Additionally, gas is a natural resource that frequently cases issues between countries, so this could bring some peace to that.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1321_B",
+	"responseid2" : "R_3DdWEY108nrUgSl",
+	"name_arg3" : "This doesn’t mean that people can’t continue to own gas cars, but by making green cars the only available cars, it is likely that the price of these cars will be driven down and, as such, become much more accessible. By moving to green vehicles, we will have much cleaner air.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1142_A",
+	"responseid3" : "R_1rBoiqd9RgqIUqs",
+	"name_arg4" : "Ending the use of gas-powered cars by 2035 is an important step we should take as it will help to reduce our greenhouse gas emissions and control the effects of climate change. Additionally, electric/green cars are reported to be easier to operate and safer overall as vehicles. Therefore, not only are they safer for the environment, but are also safer for the driver and act as a means of prevention against crashing.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1664_A",
+	"responseid4" : "R_1ps2TnFt7MDnhmr"
+}

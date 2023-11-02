@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "We treat corporations as people in a legal and moral sense as a nation and have forgotten that we are all united by the ideals of freedom and human rights. If we destroy the planet while drunk on oil, we will have no one else left to appreciate said freedoms.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1062_A",
+	"responseid1" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg2" : "Though I don't know much about the legal matters or the policies of making this change, I do understand the effects it has on the environment. Stopping the sales of gas-powered vehicles as a whole will significantly reduce a large amount of the carbon footprint in the United States. This will also help with the limited amount of petroleum in the world to produce gas out of anyway.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1603_B",
+	"responseid2" : "R_3RykDkP4C0Ac0NP",
+	"name_arg3" : "I favor the idea of removing gas-powered cars and trucks by 2035 because climate change is a real thing. Carbon emissions by cars are a direct contributor. To help save this world, we should bring down our carbon footprint by having environmentally safe vehicles. other countries have found this successful.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1014_A",
+	"responseid3" : "R_ddpgz8qqmAOmnfj",
+	"name_arg4" : "Although battery powered cars and trucks have a negative environmental impact when the batteries die, it prevents carbon emissions going into the atmosphere. Currently, global warming is impacting cities worldwide, with some coastal cities being submerged underwater, destroying homes and places for people to live. Additionally, the drastic weather changes is also affected by global warming. In our current situation, it's in our best interest to pursue battery-powered cars than continue to emit carbon into the atmosphere.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1703_B",
+	"responseid4" : "R_e8zmTDOkhnhsXoR"
+}

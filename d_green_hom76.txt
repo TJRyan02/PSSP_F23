@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1023_B",
+	"responseid1" : "R_DBsoBjlQ6GPgv8B",
+	"name_arg2" : "I favor the idea of removing gas-powered cars and trucks by 2035 because climate change is a real thing. Carbon emissions by cars are a direct contributor. To help save this world, we should bring down our carbon footprint by having environmentally safe vehicles. other countries have found this successful.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1014_A",
+	"responseid2" : "R_ddpgz8qqmAOmnfj",
+	"name_arg3" : "I am in favor of a proposal to end the sale of new gas-powered cars by 2035. I strongly believe that our government should be taking more drastic measures to halt climate change. Although little things like promoting reusable materials instead of trash and more small environmentally friendly businesses are helpful, they are not enough. What we really need to focus on to make a change is big corporations, and forcing the car industry to become more environmentally friendly would make a huge change. I am only moderately in favor of this proposal, however, because I know that financially, it would be very challenging and require a lot of resources to charge the cars.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1026_A",
+	"responseid3" : "R_1pMOHypxvD38maY",
+	"name_arg4" : "My reason for this opinion is that Russia has the power to send a nuclear weapon across the united states that would knock out our power grid. If this were to happen electric cars would be completely useless. However, gas cars would still be able to function for a longer amount of time, especially since you can pull gas from other cars and other resources.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1700_A",
+	"responseid4" : "R_2rI8ZYcICVYQFBd"
+}

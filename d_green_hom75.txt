@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Supporting the phasing out of new gas-powered car engines by 2030 is a proactive step in addressing critical environmental and societal challenges. First and foremost, the transportation sector is a significant contributor to greenhouse gas emissions, which are the leading cause of climate change. Transitioning to electric vehicles by 2030 would substantially reduce carbon emissions, helping to mitigate the catastrophic effects of global warming.<br><br>Moreover, the shift to EVs can enhance air quality in urban areas. Gasoline and diesel engines emit harmful pollutants that jeopardize public health, causing respiratory problems and premature deaths. By replacing these engines with clean and efficient electric propulsion, we can reduce smog, lower healthcare costs, and improve the quality of life for millions.<br><br>The economic rationale for this transition is compelling as well. EV technology is rapidly advancing, and the manufacturing of EVs and their components has the potential to create jobs and stimulate economic growth. The market for electric vehicles is also expanding, offering exciting opportunities for innovation and entrepreneurship.<br><br>Additionally, ending the production of new gas-powered car engines by 2030 can reduce our dependence on fossil fuels, contributing to energy security and decreasing the volatility of oil prices. It aligns with broader energy transition goals, ensuring that we invest in cleaner and more sustainable sources of power.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1459_B",
+	"responseid1" : "R_3Kuroq9ogzGPCon",
+	"name_arg2" : "Climate change presents a real and existential threat to the world as well as to the United States. Limiting the sale of gas-powered cars and trucks in favour of electric vehicles would present a route to limiting the effect of climate change, in concert with a host of other effective strategies.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1236_A",
+	"responseid2" : "R_25Ed1NRQkgBicZe",
+	"name_arg3" : "Although many may disagree, climate change is a huge issue in the world right now, and any steps taken to reduce its disastrous effects are steps that I support. If the sale of new gas-powered cars and trucks would end entirely by 2035, this would take one small step in bettering the environment and planet.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1487_B",
+	"responseid3" : "R_3nNIWTIHigMVm0H",
+	"name_arg4" : "I support the proposal to end the sale of new gas-powered cars and trucks by 2035. This is a crucial step in addressing climate change, as the transportation sector is a major contributor to greenhouse gas emissions. By promoting electric vehicles (EVs), we can significantly reduce carbon emissions, aligning with global efforts to combat climate change and limit temperature rise.<br><br>The transition to electric vehicles also presents economic opportunities. It can stimulate innovation, create jobs in the clean energy sector, and position the United States as a leader in the EV industry. The public health benefits are also significant, as it will lead to improved air quality, reducing health issues caused by vehicle emissions.<br><br>Ending the sale of gas-powered vehicles by 2035 is an approach that addresses climate change, fosters economic growth, and improves public health.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1721_B",
+	"responseid4" : "R_zc0ZhPjsrRHdEad"
+}

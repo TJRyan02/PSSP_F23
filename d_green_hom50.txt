@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I favor the sale of gas-powered cars and trucks ending entirely by 2035 because of carbon emissions. Most carbon emissions come from corporations and they do a lot of travel by land. Think of Amazon and how fast they get your packages to you, if all of those trucks are powered by gas right now they are releasing so many emissions into the atmosphere and have no intention or method of taking them out. Switching to another form of transportation, like electric, would be a preventative measure that would keep these corporations in check.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1600_A",
+	"responseid1" : "R_2ROJRsV7oGUt188",
+	"name_arg2" : "Climate change and global warming is a very real and prevalent issue that is growing within the United States and the world. Changing the composition of gas-powered cars will allow for a monumental decrease in the amount of fossil fuels emitted from cars and other automobiles. With this change, global climate change will not completely be reversed, but this will certainly help to lessen its effects that are becoming more prominent in the world.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1574_A",
+	"responseid2" : "R_Rx0iXC8GloWdsvn",
+	"name_arg3" : "I favor the idea of removing gas-powered cars and trucks by 2035 because climate change is a real thing. Carbon emissions by cars are a direct contributor. To help save this world, we should bring down our carbon footprint by having environmentally safe vehicles. other countries have found this successful.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1014_A",
+	"responseid3" : "R_ddpgz8qqmAOmnfj",
+	"name_arg4" : "It is common knowledge that carbon emissions contribute to climate change. Climate change will drastically alter the lives of children for decades to come, especially in the developing world but not excluding the United States. Gas-powered cars and trucks directly contribute to the destruction of the natural environment where children, and the adults of the future, can play and explore through carbon emissions. The elimination or limitation of these harmful byproducts will increase the well-being of children around the world, and create a world worth living in.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1529_B",
+	"responseid4" : "R_PNTtY3utdG5ozst"
+}

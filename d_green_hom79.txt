@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "1. To reduce the dependency we have on raw materials whose supply is not assured for example Russian oil being boycotted led to a huge surge in gas prices but if we had electric/renewable power for those cars communities wouldn’t have been as disrupted.<br><br>2. The environment is going through immense degradation due to the drilling for oil and causing long lasting damage to communities eg Niger delta in Nigeria and how even after thirty years they still can’t farm or fish on their land. This harm will only continue as we persist on using oil. <br><br>3. Global Warming is increasing exponentially and action needs to occur to slow it down. Every year we are seeing the devastating tip of the iceberg of the harms we are going to face in the coming years due to the immense heat. My greatest fear is the mutation and adaptation of microbes that could not thrive in human bodies because of our warmth being able to survive in us.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1228_A",
+	"responseid1" : "R_1dmhoIA2BHEu0iW",
+	"name_arg2" : "We treat corporations as people in a legal and moral sense as a nation and have forgotten that we are all united by the ideals of freedom and human rights. If we destroy the planet while drunk on oil, we will have no one else left to appreciate said freedoms.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1062_A",
+	"responseid2" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg3" : "Although many may disagree, climate change is a huge issue in the world right now, and any steps taken to reduce its disastrous effects are steps that I support. If the sale of new gas-powered cars and trucks would end entirely by 2035, this would take one small step in bettering the environment and planet.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1487_B",
+	"responseid3" : "R_3nNIWTIHigMVm0H",
+	"name_arg4" : "There is a reason people buy Tesla's now and why the government incentivizes people buying electric vehicles in general. Electricity is cheaper than gas, in the long run. The average EV in an average scenario costs about half as much to drive per mile as does an average gas car in an average scenario. So not only is it more environmentally friendly, it is economically efficient. It is a win-win if we were to get rid of gas cars and switched completely to EVs. Especially considering the level of technology in current EVs, they are only going to get more efficient in the future.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1275_B",
+	"responseid4" : "R_1P02jwaCq21f34O"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although the cost of completely renovating the automotive industry is high, I believe that any step toward a more sustainable future should be put in place as soon as possible. I acknowledge that \"green\" vehicles do not come without their own downsides and won't entirely be the solution to the emission rates of gas vehicles and their impact on their climate. I also don't believe the year 2035 is reasonable for getting all gas vehicles off the market. However, I do believe policy is needed to keep the sustainability of our world flourishing. Baby steps are how we will address preventing any significant changes in our climate. Beginning any form of policy that aims to keep our environmental impact and our industry stable is how we will begin to form a more stable world. It won't happen overnight, but it still needs to happen.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1326_A",
+	"responseid1" : "R_1RgGMFzLIhlnfq1",
+	"name_arg2" : "Climate change presents a real and existential threat to the world as well as to the United States. Limiting the sale of gas-powered cars and trucks in favour of electric vehicles would present a route to limiting the effect of climate change, in concert with a host of other effective strategies.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1236_A",
+	"responseid2" : "R_25Ed1NRQkgBicZe",
+	"name_arg3" : "I favored the proposal because ending gas-powered cars and trucks will help solve two major issues. The first issue it would aid is global warming, as electric cars are probably better for the environment. Second, this would solve the issue of the gas shortage, which is making gas prices sour. Additionally, gas is a natural resource that frequently cases issues between countries, so this could bring some peace to that.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1321_B",
+	"responseid3" : "R_3DdWEY108nrUgSl",
+	"name_arg4" : "I favor the sale of gas-powered cars and trucks ending entirely by 2035 because of carbon emissions. Most carbon emissions come from corporations and they do a lot of travel by land. Think of Amazon and how fast they get your packages to you, if all of those trucks are powered by gas right now they are releasing so many emissions into the atmosphere and have no intention or method of taking them out. Switching to another form of transportation, like electric, would be a preventative measure that would keep these corporations in check.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1600_A",
+	"responseid4" : "R_2ROJRsV7oGUt188"
+}

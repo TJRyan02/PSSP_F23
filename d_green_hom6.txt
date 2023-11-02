@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1023_B",
+	"responseid1" : "R_DBsoBjlQ6GPgv8B",
+	"name_arg2" : "I support the proposal to end the sale of new gas-powered cars and trucks by 2035. This is a crucial step in addressing climate change, as the transportation sector is a major contributor to greenhouse gas emissions. By promoting electric vehicles (EVs), we can significantly reduce carbon emissions, aligning with global efforts to combat climate change and limit temperature rise.<br><br>The transition to electric vehicles also presents economic opportunities. It can stimulate innovation, create jobs in the clean energy sector, and position the United States as a leader in the EV industry. The public health benefits are also significant, as it will lead to improved air quality, reducing health issues caused by vehicle emissions.<br><br>Ending the sale of gas-powered vehicles by 2035 is an approach that addresses climate change, fosters economic growth, and improves public health.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1721_B",
+	"responseid2" : "R_zc0ZhPjsrRHdEad",
+	"name_arg3" : "I favored the proposal because ending gas-powered cars and trucks will help solve two major issues. The first issue it would aid is global warming, as electric cars are probably better for the environment. Second, this would solve the issue of the gas shortage, which is making gas prices sour. Additionally, gas is a natural resource that frequently cases issues between countries, so this could bring some peace to that.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1321_B",
+	"responseid3" : "R_3DdWEY108nrUgSl",
+	"name_arg4" : "Giving people incentives, or nudges, to buy green cars is a way in which we can reduce global warming, as the US is one of the countries with the largest number of cars per citizen. It is a small way of contributing to global warming, as at the end of the day the largest contributors are large corporations.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1197_B",
+	"responseid4" : "R_1FnpSUUm0LDRPCl"
+}

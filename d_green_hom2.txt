@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although gas-powered vehicles are easier and cheaper to buy and use right now, some long-term benefits of ending their sale would include the increase of available natural resources and the decrease of vehicle-related carbon emissions, which are increasingly harmful to the environment and positively correlated with global warming. Thus, I favor this proposal (7/10)",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1469_B",
+	"responseid1" : "R_3MEvKQnh7s9cJMJ",
+	"name_arg2" : "I favor the proposal for ending gas-powered cars by 2035 mainly because it would help the environment. As we all know, climate change is very real and very apparent with temperatures increasing more and more each year. Although some may argue that it is too far gone for us to make a difference, I do think it is still important to try and reduce how fast climate change is happening. The proposal could be similar to Obama's CARS (Car Allowance Rebate System), which would make it easier for Americans to afford the new cars if price is an issue. For the most part, Obama's program was successful, so I believe the new proposal should also go relatively smoothly.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1586_A",
+	"responseid2" : "R_1KpeBRkmr5iLGcO",
+	"name_arg3" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1458_A",
+	"responseid3" : "R_2UbwEMvI1aR7rAB",
+	"name_arg4" : "1. To reduce the dependency we have on raw materials whose supply is not assured for example Russian oil being boycotted led to a huge surge in gas prices but if we had electric/renewable power for those cars communities wouldn’t have been as disrupted.<br><br>2. The environment is going through immense degradation due to the drilling for oil and causing long lasting damage to communities eg Niger delta in Nigeria and how even after thirty years they still can’t farm or fish on their land. This harm will only continue as we persist on using oil. <br><br>3. Global Warming is increasing exponentially and action needs to occur to slow it down. Every year we are seeing the devastating tip of the iceberg of the harms we are going to face in the coming years due to the immense heat. My greatest fear is the mutation and adaptation of microbes that could not thrive in human bodies because of our warmth being able to survive in us.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1228_A",
+	"responseid4" : "R_1dmhoIA2BHEu0iW"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Ending the use of gas-powered cars by 2035 is an important step we should take as it will help to reduce our greenhouse gas emissions and control the effects of climate change. Additionally, electric/green cars are reported to be easier to operate and safer overall as vehicles. Therefore, not only are they safer for the environment, but are also safer for the driver and act as a means of prevention against crashing.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1664_A",
+	"responseid1" : "R_1ps2TnFt7MDnhmr",
+	"name_arg2" : "My reason for this opinion is that Russia has the power to send a nuclear weapon across the united states that would knock out our power grid. If this were to happen electric cars would be completely useless. However, gas cars would still be able to function for a longer amount of time, especially since you can pull gas from other cars and other resources.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1700_A",
+	"responseid2" : "R_2rI8ZYcICVYQFBd",
+	"name_arg3" : "I would favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035 because we as Americans need to cut down on carbon emissions. Ending gas powered car sales will start the beginning of a greener environment for our country, and eventuallly gas-powered cars will phase out all together",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1020_A",
+	"responseid3" : "R_3m50X6bllaDD1GC",
+	"name_arg4" : "Although the cost of completely renovating the automotive industry is high, I believe that any step toward a more sustainable future should be put in place as soon as possible. I acknowledge that \"green\" vehicles do not come without their own downsides and won't entirely be the solution to the emission rates of gas vehicles and their impact on their climate. I also don't believe the year 2035 is reasonable for getting all gas vehicles off the market. However, I do believe policy is needed to keep the sustainability of our world flourishing. Baby steps are how we will address preventing any significant changes in our climate. Beginning any form of policy that aims to keep our environmental impact and our industry stable is how we will begin to form a more stable world. It won't happen overnight, but it still needs to happen.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1326_A",
+	"responseid4" : "R_1RgGMFzLIhlnfq1"
+}

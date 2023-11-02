@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "The mining of lithium batteries has just as harsh an impact on the environment as gas-powered cars. The process of obtaining the power for electric vehicles is highly destructive and often violates many human rights in the process. Instead, we should focus on increasing and improving public transit systems and city infrastructure.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1082_A",
+	"responseid1" : "R_2Bh4rD58ADoW0Tu",
+	"name_arg2" : "1. To reduce the dependency we have on raw materials whose supply is not assured for example Russian oil being boycotted led to a huge surge in gas prices but if we had electric/renewable power for those cars communities wouldn’t have been as disrupted.<br><br>2. The environment is going through immense degradation due to the drilling for oil and causing long lasting damage to communities eg Niger delta in Nigeria and how even after thirty years they still can’t farm or fish on their land. This harm will only continue as we persist on using oil. <br><br>3. Global Warming is increasing exponentially and action needs to occur to slow it down. Every year we are seeing the devastating tip of the iceberg of the harms we are going to face in the coming years due to the immense heat. My greatest fear is the mutation and adaptation of microbes that could not thrive in human bodies because of our warmth being able to survive in us.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1228_A",
+	"responseid2" : "R_1dmhoIA2BHEu0iW",
+	"name_arg3" : "I think an important step in the transition towards more sustainable technologies is stopping the production of older and less sustainable technology. Those who have the money to purchase brand-new cars, should be presented with the choice to either purchase an older model or buy a new electric car.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1762_A",
+	"responseid3" : "R_1lnuUsxNXtLDm4j",
+	"name_arg4" : "Moving towards solely electric vehicles is imperative for reducing carbon emissions and improving our air quality. This promotes sustainability, reduces dependence on fossil fuels, and would be a catalyst for the adoption of cleaner technologies. While there are challenges to consider, like infrastructure development, it aligns with environmental goals and technological advancements, driving more sustainable future.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1152_A",
+	"responseid4" : "R_9mlWe7zazLsVRV7"
+}

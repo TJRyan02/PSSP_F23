@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1458_A",
+	"responseid1" : "R_2UbwEMvI1aR7rAB",
+	"name_arg2" : "The mining of lithium batteries has just as harsh an impact on the environment as gas-powered cars. The process of obtaining the power for electric vehicles is highly destructive and often violates many human rights in the process. Instead, we should focus on increasing and improving public transit systems and city infrastructure.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1082_A",
+	"responseid2" : "R_2Bh4rD58ADoW0Tu",
+	"name_arg3" : "We treat corporations as people in a legal and moral sense as a nation and have forgotten that we are all united by the ideals of freedom and human rights. If we destroy the planet while drunk on oil, we will have no one else left to appreciate said freedoms.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1062_A",
+	"responseid3" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg4" : "Although gas-powered vehicles are easier and cheaper to buy and use right now, some long-term benefits of ending their sale would include the increase of available natural resources and the decrease of vehicle-related carbon emissions, which are increasingly harmful to the environment and positively correlated with global warming. Thus, I favor this proposal (7/10)",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1469_B",
+	"responseid4" : "R_3MEvKQnh7s9cJMJ"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I think that this would be a great way of diminishing fossil fuels and creating less smog. Americans would be able to breathe cleaner air and also wouldn’t rely on gas(which obviously fluctuates highly in price because of gas corporations’ need for profit). Also there would be uniformity in the types of cars so individuals wouldn’t have to worry about concerns of not being able to access certain services because of what they drive.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1750_A",
+	"responseid1" : "R_3dXPzqNGo3Hrdhz",
+	"name_arg2" : "Although the cost of completely renovating the automotive industry is high, I believe that any step toward a more sustainable future should be put in place as soon as possible. I acknowledge that \"green\" vehicles do not come without their own downsides and won't entirely be the solution to the emission rates of gas vehicles and their impact on their climate. I also don't believe the year 2035 is reasonable for getting all gas vehicles off the market. However, I do believe policy is needed to keep the sustainability of our world flourishing. Baby steps are how we will address preventing any significant changes in our climate. Beginning any form of policy that aims to keep our environmental impact and our industry stable is how we will begin to form a more stable world. It won't happen overnight, but it still needs to happen.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1326_A",
+	"responseid2" : "R_1RgGMFzLIhlnfq1",
+	"name_arg3" : "Climate change presents a real and existential threat to the world as well as to the United States. Limiting the sale of gas-powered cars and trucks in favour of electric vehicles would present a route to limiting the effect of climate change, in concert with a host of other effective strategies.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1236_A",
+	"responseid3" : "R_25Ed1NRQkgBicZe",
+	"name_arg4" : "The mining of lithium batteries has just as harsh an impact on the environment as gas-powered cars. The process of obtaining the power for electric vehicles is highly destructive and often violates many human rights in the process. Instead, we should focus on increasing and improving public transit systems and city infrastructure.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1082_A",
+	"responseid4" : "R_2Bh4rD58ADoW0Tu"
+}

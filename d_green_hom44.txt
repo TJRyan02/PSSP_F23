@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "This doesn’t mean that people can’t continue to own gas cars, but by making green cars the only available cars, it is likely that the price of these cars will be driven down and, as such, become much more accessible. By moving to green vehicles, we will have much cleaner air.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1142_A",
+	"responseid1" : "R_1rBoiqd9RgqIUqs",
+	"name_arg2" : "Electric technology and infrastructure is being built up all over the country. There is no longer an excuse for new production of Gas Vehicles when we know that the harmful effects to the environment are greatly decreasing the quality of life for future generations. Electric vehicles are more efficient and economical for many users, and will provide stability for our future.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1174_A",
+	"responseid2" : "R_e40xob9ZIg300V3",
+	"name_arg3" : "I am in favor of a proposal to end the sale of new gas-powered cars by 2035. I strongly believe that our government should be taking more drastic measures to halt climate change. Although little things like promoting reusable materials instead of trash and more small environmentally friendly businesses are helpful, they are not enough. What we really need to focus on to make a change is big corporations, and forcing the car industry to become more environmentally friendly would make a huge change. I am only moderately in favor of this proposal, however, because I know that financially, it would be very challenging and require a lot of resources to charge the cars.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1026_A",
+	"responseid3" : "R_1pMOHypxvD38maY",
+	"name_arg4" : "I believe that our government needs to take extreme actions to combat climate change. Currently I feel that the actions being taken are not enough. We need to focus on green powered vehicles because they can drastically limit the impact automobiles are having on pollution and they will limit the need for natural gas consumption.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1391_B",
+	"responseid4" : "R_1LYbt9ob44kkjqw"
+}

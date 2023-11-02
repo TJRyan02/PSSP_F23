@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Providing incentives for companies to begin developing and manufacturing green vehicles as opposed to gas powered ones would likely make these environmentally friendly cars more affordable, which is a big accessibility barrier to green vehicles. Decreasing the number of gas powered vehicles on the road would be an important step toward lowering carbon emissions, which is an important consideration for the future of our country.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1265_B",
+	"responseid1" : "R_vZIjnJHvAE2SklH",
+	"name_arg2" : "While the climate problem needs to be addressed, ending the sale of new gas-powered cars and trucks would negatively impact the economy. The transition would be to abrupt and \"gas-powered\" vehicles can include hybrid vehicles, which have reduced emissions. Instead, I feel the movement away from gas should be more gradual, addressing the climate problem without strongly affecting industry.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1201_B",
+	"responseid2" : "R_3PM5XwMJoMsADbZ",
+	"name_arg3" : "One of the main reasons is the urgency to address climate change and reduce greenhouse gas emissions. Transitioning to electric vehicles can help decrease carbon emissions and improve air quality. Additionally, advancements in electric vehicle technology have made them more accessible and practical for everyday use. The shift towards electric vehicles also promotes innovation and investment in renewable energy sources. Ultimately, the goal is to create a more sustainable and environmentally friendly transportation system.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1032_A",
+	"responseid3" : "R_2zdvL0atShg1Ntp",
+	"name_arg4" : "I believe that the sale of new gas-powered cars and trucks should end by 2035 due to a plethora of economic and environmental reasons. Gas prices are entirely too highly volatile and leave most Americans scrambling with a sudden rise. Additionally, by eliminating their sale, we will be able to move forward together towards a cleaner, more green future. In response to those who disagree with this opinion, I understand your apprehension but encourage you to think about the planet you want to leave your children with. At the current state we're going, your children may never know what it's like to breathe outside without a oxygen mask or remember the trees due to the concerns of CO2 production and the ozone layer.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1292_A",
+	"responseid4" : "R_2fvonDsKEoaZbHr"
+}

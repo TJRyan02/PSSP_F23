@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although gas-powered vehicles are easier and cheaper to buy and use right now, some long-term benefits of ending their sale would include the increase of available natural resources and the decrease of vehicle-related carbon emissions, which are increasingly harmful to the environment and positively correlated with global warming. Thus, I favor this proposal (7/10)",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1469_B",
+	"responseid1" : "R_3MEvKQnh7s9cJMJ",
+	"name_arg2" : "I feel that totaling ending the sale of regular cars would anger a lot of people who love the history of cars. I know people that work on old cars for fun. I think green cars would help the environment and increasing the choices for green cars should be done. But I don't think people should not be allowed to buy gas powered cars.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1063_B",
+	"responseid2" : "R_9QY3pueoFffDAMV",
+	"name_arg3" : "Though I don't know much about the legal matters or the policies of making this change, I do understand the effects it has on the environment. Stopping the sales of gas-powered vehicles as a whole will significantly reduce a large amount of the carbon footprint in the United States. This will also help with the limited amount of petroleum in the world to produce gas out of anyway.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1603_B",
+	"responseid3" : "R_3RykDkP4C0Ac0NP",
+	"name_arg4" : "I would favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035 because we as Americans need to cut down on carbon emissions. Ending gas powered car sales will start the beginning of a greener environment for our country, and eventuallly gas-powered cars will phase out all together",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1020_A",
+	"responseid4" : "R_3m50X6bllaDD1GC"
+}

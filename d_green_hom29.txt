@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Ending the production of gas-powered cars and trucks would lead to a more sustainable environment. It would limit the amount of carbon pollution in the air, leading to the destruction of the ozone layer, and thus allow the earth to remain protected for future generations. Also, electric cars are a new business. It would increase the U.S. economy and allow for new jobs to emerge as these cars become more widespread in popularity.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1129_B",
+	"responseid1" : "R_22Sacfv7c0VKpSv",
+	"name_arg2" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1458_A",
+	"responseid2" : "R_2UbwEMvI1aR7rAB",
+	"name_arg3" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1023_B",
+	"responseid3" : "R_DBsoBjlQ6GPgv8B",
+	"name_arg4" : "My reason for this opinion is that Russia has the power to send a nuclear weapon across the united states that would knock out our power grid. If this were to happen electric cars would be completely useless. However, gas cars would still be able to function for a longer amount of time, especially since you can pull gas from other cars and other resources.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1700_A",
+	"responseid4" : "R_2rI8ZYcICVYQFBd"
+}

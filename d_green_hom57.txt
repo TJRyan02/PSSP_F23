@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I understand that as a nation, we are moving towards more advanced technology, like electric cars and such, however completely ending the sale of gas-powered cars and trucks would make it difficult for individuals, particularly those with low income, to purchase electric vehicles. Unless there's a proper system for finances set up for individuals in that category, I don't think it would be the most efficient policy.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1565_B",
+	"responseid1" : "R_1EWgyY4ZDVzZ2v3",
+	"name_arg2" : "I think that this would be a great way of diminishing fossil fuels and creating less smog. Americans would be able to breathe cleaner air and also wouldn’t rely on gas(which obviously fluctuates highly in price because of gas corporations’ need for profit). Also there would be uniformity in the types of cars so individuals wouldn’t have to worry about concerns of not being able to access certain services because of what they drive.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1750_A",
+	"responseid2" : "R_3dXPzqNGo3Hrdhz",
+	"name_arg3" : "2035 is just over ten years away and to entirely end the sale of gas-powered cars and trucks would leave a large group of people without easily accessible and reliable transportation. The alternative to gas-powered cars is likely electric vehicles which are much more expensive in comparison and again, are not inclusive to the socioeconomic demographic in the United States.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1371_B",
+	"responseid3" : "R_vitWtWeYMB9wW6R",
+	"name_arg4" : "Although battery powered cars and trucks have a negative environmental impact when the batteries die, it prevents carbon emissions going into the atmosphere. Currently, global warming is impacting cities worldwide, with some coastal cities being submerged underwater, destroying homes and places for people to live. Additionally, the drastic weather changes is also affected by global warming. In our current situation, it's in our best interest to pursue battery-powered cars than continue to emit carbon into the atmosphere.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1703_B",
+	"responseid4" : "R_e8zmTDOkhnhsXoR"
+}

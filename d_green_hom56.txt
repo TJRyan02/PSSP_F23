@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although gas-powered vehicles are easier and cheaper to buy and use right now, some long-term benefits of ending their sale would include the increase of available natural resources and the decrease of vehicle-related carbon emissions, which are increasingly harmful to the environment and positively correlated with global warming. Thus, I favor this proposal (7/10)",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1469_B",
+	"responseid1" : "R_3MEvKQnh7s9cJMJ",
+	"name_arg2" : "Climate change presents a real and existential threat to the world as well as to the United States. Limiting the sale of gas-powered cars and trucks in favour of electric vehicles would present a route to limiting the effect of climate change, in concert with a host of other effective strategies.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1236_A",
+	"responseid2" : "R_25Ed1NRQkgBicZe",
+	"name_arg3" : "Climate change and global warming is a very real and prevalent issue that is growing within the United States and the world. Changing the composition of gas-powered cars will allow for a monumental decrease in the amount of fossil fuels emitted from cars and other automobiles. With this change, global climate change will not completely be reversed, but this will certainly help to lessen its effects that are becoming more prominent in the world.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1574_A",
+	"responseid3" : "R_Rx0iXC8GloWdsvn",
+	"name_arg4" : "I think that there are several prominent studies showing the effect of emissions from cars on the climate crisis. One of the major hurdles in this process of slowing the climate crisis is that car companies are not incentivized to produce these cars. If we can show that there is something in it for the car companies, we can take a proactive step into reversing the climate crisis.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1151_B",
+	"responseid4" : "R_2CEcBYbQ9lXPIsV"
+}

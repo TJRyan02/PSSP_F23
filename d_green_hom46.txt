@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although battery powered cars and trucks have a negative environmental impact when the batteries die, it prevents carbon emissions going into the atmosphere. Currently, global warming is impacting cities worldwide, with some coastal cities being submerged underwater, destroying homes and places for people to live. Additionally, the drastic weather changes is also affected by global warming. In our current situation, it's in our best interest to pursue battery-powered cars than continue to emit carbon into the atmosphere.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1703_B",
+	"responseid1" : "R_e8zmTDOkhnhsXoR",
+	"name_arg2" : "I favor this proposal because the environment is becoming heavily polluted and it would be better to have less gas powered cars in order to have less pollution. Not only would this help our environment but we would not have to worry about not having enough gasoline or having a gasoline shortage.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1491_B",
+	"responseid2" : "R_1JK4vvpCszt45AQ",
+	"name_arg3" : "We treat corporations as people in a legal and moral sense as a nation and have forgotten that we are all united by the ideals of freedom and human rights. If we destroy the planet while drunk on oil, we will have no one else left to appreciate said freedoms.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1062_A",
+	"responseid3" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg4" : "Although gas-powered vehicles are easier and cheaper to buy and use right now, some long-term benefits of ending their sale would include the increase of available natural resources and the decrease of vehicle-related carbon emissions, which are increasingly harmful to the environment and positively correlated with global warming. Thus, I favor this proposal (7/10)",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1469_B",
+	"responseid4" : "R_3MEvKQnh7s9cJMJ"
+}

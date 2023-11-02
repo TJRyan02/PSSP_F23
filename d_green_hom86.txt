@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Automobiles are a leading cause of pollution and contamination impacting the Earth. If it became standard following the year 2035 that no vehicles would be sold that operated on gas-power, it wouldn't be a choice people would have to make when purchasing a vehicle. Each vehicle would already be electric-based.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1242_A",
+	"responseid1" : "R_ehNlx7oPHhci7cJ",
+	"name_arg2" : "Electric technology and infrastructure is being built up all over the country. There is no longer an excuse for new production of Gas Vehicles when we know that the harmful effects to the environment are greatly decreasing the quality of life for future generations. Electric vehicles are more efficient and economical for many users, and will provide stability for our future.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1174_A",
+	"responseid2" : "R_e40xob9ZIg300V3",
+	"name_arg3" : "Although gas-powered vehicles are easier and cheaper to buy and use right now, some long-term benefits of ending their sale would include the increase of available natural resources and the decrease of vehicle-related carbon emissions, which are increasingly harmful to the environment and positively correlated with global warming. Thus, I favor this proposal (7/10)",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1469_B",
+	"responseid3" : "R_3MEvKQnh7s9cJMJ",
+	"name_arg4" : "Climate change presents a real and existential threat to the world as well as to the United States. Limiting the sale of gas-powered cars and trucks in favour of electric vehicles would present a route to limiting the effect of climate change, in concert with a host of other effective strategies.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1236_A",
+	"responseid4" : "R_25Ed1NRQkgBicZe"
+}

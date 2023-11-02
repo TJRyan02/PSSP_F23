@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I put a 4 for that answer because it is unfeasible to stop the sale of gas-powered cars by 2035. I think it would be more feasible to stop the production of gas-powered cars by 2035, however completely stopping people from selling used cars or newly produced gas-powered cars seems unlikely.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1593_B",
+	"responseid1" : "R_2WI3M9RCKrRcOtn",
+	"name_arg2" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1023_B",
+	"responseid2" : "R_DBsoBjlQ6GPgv8B",
+	"name_arg3" : "Although the cost of completely renovating the automotive industry is high, I believe that any step toward a more sustainable future should be put in place as soon as possible. I acknowledge that \"green\" vehicles do not come without their own downsides and won't entirely be the solution to the emission rates of gas vehicles and their impact on their climate. I also don't believe the year 2035 is reasonable for getting all gas vehicles off the market. However, I do believe policy is needed to keep the sustainability of our world flourishing. Baby steps are how we will address preventing any significant changes in our climate. Beginning any form of policy that aims to keep our environmental impact and our industry stable is how we will begin to form a more stable world. It won't happen overnight, but it still needs to happen.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1326_A",
+	"responseid3" : "R_1RgGMFzLIhlnfq1",
+	"name_arg4" : "While the climate problem needs to be addressed, ending the sale of new gas-powered cars and trucks would negatively impact the economy. The transition would be to abrupt and \"gas-powered\" vehicles can include hybrid vehicles, which have reduced emissions. Instead, I feel the movement away from gas should be more gradual, addressing the climate problem without strongly affecting industry.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1201_B",
+	"responseid4" : "R_3PM5XwMJoMsADbZ"
+}

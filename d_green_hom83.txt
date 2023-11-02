@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035. I favor this because I think the health of our environment should be considered extremely important and a very high priority at this point in time because of the damage that has already been done. I think that shifting from gas powered cars to electric cars is a shift that does not really negatively effect anyone so therefore it is a good place to start mending the damage done to the environment.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1271_B",
+	"responseid1" : "R_2ruNn3wzHwfvntp",
+	"name_arg2" : "My reason for this opinion is that Russia has the power to send a nuclear weapon across the united states that would knock out our power grid. If this were to happen electric cars would be completely useless. However, gas cars would still be able to function for a longer amount of time, especially since you can pull gas from other cars and other resources.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1700_A",
+	"responseid2" : "R_2rI8ZYcICVYQFBd",
+	"name_arg3" : "Moving towards solely electric vehicles is imperative for reducing carbon emissions and improving our air quality. This promotes sustainability, reduces dependence on fossil fuels, and would be a catalyst for the adoption of cleaner technologies. While there are challenges to consider, like infrastructure development, it aligns with environmental goals and technological advancements, driving more sustainable future.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1152_A",
+	"responseid3" : "R_9mlWe7zazLsVRV7",
+	"name_arg4" : "2035 is just over ten years away and to entirely end the sale of gas-powered cars and trucks would leave a large group of people without easily accessible and reliable transportation. The alternative to gas-powered cars is likely electric vehicles which are much more expensive in comparison and again, are not inclusive to the socioeconomic demographic in the United States.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1371_B",
+	"responseid4" : "R_vitWtWeYMB9wW6R"
+}

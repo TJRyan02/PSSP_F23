@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "With an increase in global warming and climate change presenting itself as a serious issue, alternative energy resources are necessary to secure a safe and stable environment for future generations. One way that we can do this is switching from gasoline powered vehicles to electrically powered cars. Offering government issued incentives to car dealerships to switch to electrically powered vehicles increases the likelihood that dealerships will want to make the switch. Making small changes to our everyday life, like switching the way we power our cars, homes, and buildings is just one way that we can ensure a safe, clean, and prosperous future for generations to come.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1345_B",
+	"responseid1" : "R_ZxhgcLyuvaSMLi9",
+	"name_arg2" : "Providing incentives for companies to begin developing and manufacturing green vehicles as opposed to gas powered ones would likely make these environmentally friendly cars more affordable, which is a big accessibility barrier to green vehicles. Decreasing the number of gas powered vehicles on the road would be an important step toward lowering carbon emissions, which is an important consideration for the future of our country.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1265_B",
+	"responseid2" : "R_vZIjnJHvAE2SklH",
+	"name_arg3" : "Although battery powered cars and trucks have a negative environmental impact when the batteries die, it prevents carbon emissions going into the atmosphere. Currently, global warming is impacting cities worldwide, with some coastal cities being submerged underwater, destroying homes and places for people to live. Additionally, the drastic weather changes is also affected by global warming. In our current situation, it's in our best interest to pursue battery-powered cars than continue to emit carbon into the atmosphere.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1703_B",
+	"responseid3" : "R_e8zmTDOkhnhsXoR",
+	"name_arg4" : "I favored the proposal because ending gas-powered cars and trucks will help solve two major issues. The first issue it would aid is global warming, as electric cars are probably better for the environment. Second, this would solve the issue of the gas shortage, which is making gas prices sour. Additionally, gas is a natural resource that frequently cases issues between countries, so this could bring some peace to that.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1321_B",
+	"responseid4" : "R_3DdWEY108nrUgSl"
+}

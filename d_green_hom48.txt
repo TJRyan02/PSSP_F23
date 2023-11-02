@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I favor the proposal for ending gas-powered cars by 2035 mainly because it would help the environment. As we all know, climate change is very real and very apparent with temperatures increasing more and more each year. Although some may argue that it is too far gone for us to make a difference, I do think it is still important to try and reduce how fast climate change is happening. The proposal could be similar to Obama's CARS (Car Allowance Rebate System), which would make it easier for Americans to afford the new cars if price is an issue. For the most part, Obama's program was successful, so I believe the new proposal should also go relatively smoothly.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1586_A",
+	"responseid1" : "R_1KpeBRkmr5iLGcO",
+	"name_arg2" : "2035 is just over ten years away and to entirely end the sale of gas-powered cars and trucks would leave a large group of people without easily accessible and reliable transportation. The alternative to gas-powered cars is likely electric vehicles which are much more expensive in comparison and again, are not inclusive to the socioeconomic demographic in the United States.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1371_B",
+	"responseid2" : "R_vitWtWeYMB9wW6R",
+	"name_arg3" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1023_B",
+	"responseid3" : "R_DBsoBjlQ6GPgv8B",
+	"name_arg4" : "Automobiles are a leading cause of pollution and contamination impacting the Earth. If it became standard following the year 2035 that no vehicles would be sold that operated on gas-power, it wouldn't be a choice people would have to make when purchasing a vehicle. Each vehicle would already be electric-based.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1242_A",
+	"responseid4" : "R_ehNlx7oPHhci7cJ"
+}

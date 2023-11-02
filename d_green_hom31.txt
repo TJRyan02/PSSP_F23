@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I favor the idea of removing gas-powered cars and trucks by 2035 because climate change is a real thing. Carbon emissions by cars are a direct contributor. To help save this world, we should bring down our carbon footprint by having environmentally safe vehicles. other countries have found this successful.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1014_A",
+	"responseid1" : "R_ddpgz8qqmAOmnfj",
+	"name_arg2" : "Although many may disagree, climate change is a huge issue in the world right now, and any steps taken to reduce its disastrous effects are steps that I support. If the sale of new gas-powered cars and trucks would end entirely by 2035, this would take one small step in bettering the environment and planet.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1487_B",
+	"responseid2" : "R_3nNIWTIHigMVm0H",
+	"name_arg3" : "I favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035. I favor this because I think the health of our environment should be considered extremely important and a very high priority at this point in time because of the damage that has already been done. I think that shifting from gas powered cars to electric cars is a shift that does not really negatively effect anyone so therefore it is a good place to start mending the damage done to the environment.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1271_B",
+	"responseid3" : "R_2ruNn3wzHwfvntp",
+	"name_arg4" : "I support slowing down of sales of gas cars, not fully selling them. In countries such as Norway, they place heavy taxes on gas and gas powered vehicles allowing people to make their own decisions when buying a car, and not being forced to choose an electric car. I also think that we do not have the infrastructure to support a fully electric car world.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1434_A",
+	"responseid4" : "R_3QE2tInTPcT6EVR"
+}

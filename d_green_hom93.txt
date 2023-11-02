@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "With an increase in global warming and climate change presenting itself as a serious issue, alternative energy resources are necessary to secure a safe and stable environment for future generations. One way that we can do this is switching from gasoline powered vehicles to electrically powered cars. Offering government issued incentives to car dealerships to switch to electrically powered vehicles increases the likelihood that dealerships will want to make the switch. Making small changes to our everyday life, like switching the way we power our cars, homes, and buildings is just one way that we can ensure a safe, clean, and prosperous future for generations to come.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1345_B",
+	"responseid1" : "R_ZxhgcLyuvaSMLi9",
+	"name_arg2" : "I favor the sale of gas-powered cars and trucks ending entirely by 2035 because of carbon emissions. Most carbon emissions come from corporations and they do a lot of travel by land. Think of Amazon and how fast they get your packages to you, if all of those trucks are powered by gas right now they are releasing so many emissions into the atmosphere and have no intention or method of taking them out. Switching to another form of transportation, like electric, would be a preventative measure that would keep these corporations in check.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1600_A",
+	"responseid2" : "R_2ROJRsV7oGUt188",
+	"name_arg3" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1023_B",
+	"responseid3" : "R_DBsoBjlQ6GPgv8B",
+	"name_arg4" : "I think that there are several prominent studies showing the effect of emissions from cars on the climate crisis. One of the major hurdles in this process of slowing the climate crisis is that car companies are not incentivized to produce these cars. If we can show that there is something in it for the car companies, we can take a proactive step into reversing the climate crisis.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1151_B",
+	"responseid4" : "R_2CEcBYbQ9lXPIsV"
+}

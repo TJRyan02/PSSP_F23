@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I favor this proposal because the environment is becoming heavily polluted and it would be better to have less gas powered cars in order to have less pollution. Not only would this help our environment but we would not have to worry about not having enough gasoline or having a gasoline shortage.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1491_B",
+	"responseid1" : "R_1JK4vvpCszt45AQ",
+	"name_arg2" : "1. To reduce the dependency we have on raw materials whose supply is not assured for example Russian oil being boycotted led to a huge surge in gas prices but if we had electric/renewable power for those cars communities wouldn’t have been as disrupted.<br><br>2. The environment is going through immense degradation due to the drilling for oil and causing long lasting damage to communities eg Niger delta in Nigeria and how even after thirty years they still can’t farm or fish on their land. This harm will only continue as we persist on using oil. <br><br>3. Global Warming is increasing exponentially and action needs to occur to slow it down. Every year we are seeing the devastating tip of the iceberg of the harms we are going to face in the coming years due to the immense heat. My greatest fear is the mutation and adaptation of microbes that could not thrive in human bodies because of our warmth being able to survive in us.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1228_A",
+	"responseid2" : "R_1dmhoIA2BHEu0iW",
+	"name_arg3" : "There is a reason people buy Tesla's now and why the government incentivizes people buying electric vehicles in general. Electricity is cheaper than gas, in the long run. The average EV in an average scenario costs about half as much to drive per mile as does an average gas car in an average scenario. So not only is it more environmentally friendly, it is economically efficient. It is a win-win if we were to get rid of gas cars and switched completely to EVs. Especially considering the level of technology in current EVs, they are only going to get more efficient in the future.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1275_B",
+	"responseid3" : "R_1P02jwaCq21f34O",
+	"name_arg4" : "The mining of lithium batteries has just as harsh an impact on the environment as gas-powered cars. The process of obtaining the power for electric vehicles is highly destructive and often violates many human rights in the process. Instead, we should focus on increasing and improving public transit systems and city infrastructure.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1082_A",
+	"responseid4" : "R_2Bh4rD58ADoW0Tu"
+}

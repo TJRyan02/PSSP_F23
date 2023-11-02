@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1458_A",
+	"responseid1" : "R_2UbwEMvI1aR7rAB",
+	"name_arg2" : "Ending the use of gas-powered cars by 2035 is an important step we should take as it will help to reduce our greenhouse gas emissions and control the effects of climate change. Additionally, electric/green cars are reported to be easier to operate and safer overall as vehicles. Therefore, not only are they safer for the environment, but are also safer for the driver and act as a means of prevention against crashing.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1664_A",
+	"responseid2" : "R_1ps2TnFt7MDnhmr",
+	"name_arg3" : "I think moving towards a more green place as far as cars go would be greatly beneficial to our environment. However, if car manufacturers have not fully developed green cars to be reliable and strong then I don't think it would be reasonable to expect car companies to stop producing gas powered vehicles.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1488_A",
+	"responseid3" : "R_aayZpaKVop4Q6qt",
+	"name_arg4" : "Giving people incentives, or nudges, to buy green cars is a way in which we can reduce global warming, as the US is one of the countries with the largest number of cars per citizen. It is a small way of contributing to global warming, as at the end of the day the largest contributors are large corporations.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1197_B",
+	"responseid4" : "R_1FnpSUUm0LDRPCl"
+}

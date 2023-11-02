@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I think that there are several prominent studies showing the effect of emissions from cars on the climate crisis. One of the major hurdles in this process of slowing the climate crisis is that car companies are not incentivized to produce these cars. If we can show that there is something in it for the car companies, we can take a proactive step into reversing the climate crisis.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1151_B",
+	"responseid1" : "R_2CEcBYbQ9lXPIsV",
+	"name_arg2" : "One of the main reasons is the urgency to address climate change and reduce greenhouse gas emissions. Transitioning to electric vehicles can help decrease carbon emissions and improve air quality. Additionally, advancements in electric vehicle technology have made them more accessible and practical for everyday use. The shift towards electric vehicles also promotes innovation and investment in renewable energy sources. Ultimately, the goal is to create a more sustainable and environmentally friendly transportation system.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1032_A",
+	"responseid2" : "R_2zdvL0atShg1Ntp",
+	"name_arg3" : "I believe that the sale of new gas-powered cars and trucks should end by 2035 due to a plethora of economic and environmental reasons. Gas prices are entirely too highly volatile and leave most Americans scrambling with a sudden rise. Additionally, by eliminating their sale, we will be able to move forward together towards a cleaner, more green future. In response to those who disagree with this opinion, I understand your apprehension but encourage you to think about the planet you want to leave your children with. At the current state we're going, your children may never know what it's like to breathe outside without a oxygen mask or remember the trees due to the concerns of CO2 production and the ozone layer.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1292_A",
+	"responseid3" : "R_2fvonDsKEoaZbHr",
+	"name_arg4" : "I put a 4 for that answer because it is unfeasible to stop the sale of gas-powered cars by 2035. I think it would be more feasible to stop the production of gas-powered cars by 2035, however completely stopping people from selling used cars or newly produced gas-powered cars seems unlikely.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1593_B",
+	"responseid4" : "R_2WI3M9RCKrRcOtn"
+}

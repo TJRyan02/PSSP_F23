@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although gas-powered vehicles are easier and cheaper to buy and use right now, some long-term benefits of ending their sale would include the increase of available natural resources and the decrease of vehicle-related carbon emissions, which are increasingly harmful to the environment and positively correlated with global warming. Thus, I favor this proposal (7/10)",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1469_B",
+	"responseid1" : "R_3MEvKQnh7s9cJMJ",
+	"name_arg2" : "This doesn’t mean that people can’t continue to own gas cars, but by making green cars the only available cars, it is likely that the price of these cars will be driven down and, as such, become much more accessible. By moving to green vehicles, we will have much cleaner air.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1142_A",
+	"responseid2" : "R_1rBoiqd9RgqIUqs",
+	"name_arg3" : "Gasoline releases an abundance of fossil fuels which contribute significantly to climate change and global warming. Although many of us may not feel the impacts yet, we will soon if we continue to produce emissions at this rate. Changes in how cars are powered makes little difference in the use by consumers (especially if subsidies keep the prices similar) yet will have significant, positive, long term effects on our planet and therefore our qualities of life.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1514_A",
+	"responseid3" : "R_1oce2SGAl6olyKY",
+	"name_arg4" : "Electric technology and infrastructure is being built up all over the country. There is no longer an excuse for new production of Gas Vehicles when we know that the harmful effects to the environment are greatly decreasing the quality of life for future generations. Electric vehicles are more efficient and economical for many users, and will provide stability for our future.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1174_A",
+	"responseid4" : "R_e40xob9ZIg300V3"
+}

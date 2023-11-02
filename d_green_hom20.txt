@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although the cost of completely renovating the automotive industry is high, I believe that any step toward a more sustainable future should be put in place as soon as possible. I acknowledge that \"green\" vehicles do not come without their own downsides and won't entirely be the solution to the emission rates of gas vehicles and their impact on their climate. I also don't believe the year 2035 is reasonable for getting all gas vehicles off the market. However, I do believe policy is needed to keep the sustainability of our world flourishing. Baby steps are how we will address preventing any significant changes in our climate. Beginning any form of policy that aims to keep our environmental impact and our industry stable is how we will begin to form a more stable world. It won't happen overnight, but it still needs to happen.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1326_A",
+	"responseid1" : "R_1RgGMFzLIhlnfq1",
+	"name_arg2" : "I think that this would be a great way of diminishing fossil fuels and creating less smog. Americans would be able to breathe cleaner air and also wouldn’t rely on gas(which obviously fluctuates highly in price because of gas corporations’ need for profit). Also there would be uniformity in the types of cars so individuals wouldn’t have to worry about concerns of not being able to access certain services because of what they drive.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1750_A",
+	"responseid2" : "R_3dXPzqNGo3Hrdhz",
+	"name_arg3" : "I favor the proposal for ending gas-powered cars by 2035 mainly because it would help the environment. As we all know, climate change is very real and very apparent with temperatures increasing more and more each year. Although some may argue that it is too far gone for us to make a difference, I do think it is still important to try and reduce how fast climate change is happening. The proposal could be similar to Obama's CARS (Car Allowance Rebate System), which would make it easier for Americans to afford the new cars if price is an issue. For the most part, Obama's program was successful, so I believe the new proposal should also go relatively smoothly.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1586_A",
+	"responseid3" : "R_1KpeBRkmr5iLGcO",
+	"name_arg4" : "This doesn’t mean that people can’t continue to own gas cars, but by making green cars the only available cars, it is likely that the price of these cars will be driven down and, as such, become much more accessible. By moving to green vehicles, we will have much cleaner air.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1142_A",
+	"responseid4" : "R_1rBoiqd9RgqIUqs"
+}

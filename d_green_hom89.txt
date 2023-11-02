@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "One of the main reasons is the urgency to address climate change and reduce greenhouse gas emissions. Transitioning to electric vehicles can help decrease carbon emissions and improve air quality. Additionally, advancements in electric vehicle technology have made them more accessible and practical for everyday use. The shift towards electric vehicles also promotes innovation and investment in renewable energy sources. Ultimately, the goal is to create a more sustainable and environmentally friendly transportation system.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1032_A",
+	"responseid1" : "R_2zdvL0atShg1Ntp",
+	"name_arg2" : "Climate change and global warming is a very real and prevalent issue that is growing within the United States and the world. Changing the composition of gas-powered cars will allow for a monumental decrease in the amount of fossil fuels emitted from cars and other automobiles. With this change, global climate change will not completely be reversed, but this will certainly help to lessen its effects that are becoming more prominent in the world.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1574_A",
+	"responseid2" : "R_Rx0iXC8GloWdsvn",
+	"name_arg3" : "Moving towards solely electric vehicles is imperative for reducing carbon emissions and improving our air quality. This promotes sustainability, reduces dependence on fossil fuels, and would be a catalyst for the adoption of cleaner technologies. While there are challenges to consider, like infrastructure development, it aligns with environmental goals and technological advancements, driving more sustainable future.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1152_A",
+	"responseid3" : "R_9mlWe7zazLsVRV7",
+	"name_arg4" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1458_A",
+	"responseid4" : "R_2UbwEMvI1aR7rAB"
+}

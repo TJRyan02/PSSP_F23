@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I support the proposal to end the sale of new gas-powered cars and trucks by 2035. This is a crucial step in addressing climate change, as the transportation sector is a major contributor to greenhouse gas emissions. By promoting electric vehicles (EVs), we can significantly reduce carbon emissions, aligning with global efforts to combat climate change and limit temperature rise.<br><br>The transition to electric vehicles also presents economic opportunities. It can stimulate innovation, create jobs in the clean energy sector, and position the United States as a leader in the EV industry. The public health benefits are also significant, as it will lead to improved air quality, reducing health issues caused by vehicle emissions.<br><br>Ending the sale of gas-powered vehicles by 2035 is an approach that addresses climate change, fosters economic growth, and improves public health.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1721_B",
+	"responseid1" : "R_zc0ZhPjsrRHdEad",
+	"name_arg2" : "I am in favor of a proposal to end the sale of new gas-powered cars by 2035. I strongly believe that our government should be taking more drastic measures to halt climate change. Although little things like promoting reusable materials instead of trash and more small environmentally friendly businesses are helpful, they are not enough. What we really need to focus on to make a change is big corporations, and forcing the car industry to become more environmentally friendly would make a huge change. I am only moderately in favor of this proposal, however, because I know that financially, it would be very challenging and require a lot of resources to charge the cars.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1026_A",
+	"responseid2" : "R_1pMOHypxvD38maY",
+	"name_arg3" : "Moving towards solely electric vehicles is imperative for reducing carbon emissions and improving our air quality. This promotes sustainability, reduces dependence on fossil fuels, and would be a catalyst for the adoption of cleaner technologies. While there are challenges to consider, like infrastructure development, it aligns with environmental goals and technological advancements, driving more sustainable future.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1152_A",
+	"responseid3" : "R_9mlWe7zazLsVRV7",
+	"name_arg4" : "Electric technology and infrastructure is being built up all over the country. There is no longer an excuse for new production of Gas Vehicles when we know that the harmful effects to the environment are greatly decreasing the quality of life for future generations. Electric vehicles are more efficient and economical for many users, and will provide stability for our future.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1174_A",
+	"responseid4" : "R_e40xob9ZIg300V3"
+}

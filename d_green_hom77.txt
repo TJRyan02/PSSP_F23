@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I put a 4 for that answer because it is unfeasible to stop the sale of gas-powered cars by 2035. I think it would be more feasible to stop the production of gas-powered cars by 2035, however completely stopping people from selling used cars or newly produced gas-powered cars seems unlikely.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1593_B",
+	"responseid1" : "R_2WI3M9RCKrRcOtn",
+	"name_arg2" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1458_A",
+	"responseid2" : "R_2UbwEMvI1aR7rAB",
+	"name_arg3" : "I think an important step in the transition towards more sustainable technologies is stopping the production of older and less sustainable technology. Those who have the money to purchase brand-new cars, should be presented with the choice to either purchase an older model or buy a new electric car.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1762_A",
+	"responseid3" : "R_1lnuUsxNXtLDm4j",
+	"name_arg4" : "Supporting the phasing out of new gas-powered car engines by 2030 is a proactive step in addressing critical environmental and societal challenges. First and foremost, the transportation sector is a significant contributor to greenhouse gas emissions, which are the leading cause of climate change. Transitioning to electric vehicles by 2030 would substantially reduce carbon emissions, helping to mitigate the catastrophic effects of global warming.<br><br>Moreover, the shift to EVs can enhance air quality in urban areas. Gasoline and diesel engines emit harmful pollutants that jeopardize public health, causing respiratory problems and premature deaths. By replacing these engines with clean and efficient electric propulsion, we can reduce smog, lower healthcare costs, and improve the quality of life for millions.<br><br>The economic rationale for this transition is compelling as well. EV technology is rapidly advancing, and the manufacturing of EVs and their components has the potential to create jobs and stimulate economic growth. The market for electric vehicles is also expanding, offering exciting opportunities for innovation and entrepreneurship.<br><br>Additionally, ending the production of new gas-powered car engines by 2030 can reduce our dependence on fossil fuels, contributing to energy security and decreasing the volatility of oil prices. It aligns with broader energy transition goals, ensuring that we invest in cleaner and more sustainable sources of power.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1459_B",
+	"responseid4" : "R_3Kuroq9ogzGPCon"
+}

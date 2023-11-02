@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Though I don't know much about the legal matters or the policies of making this change, I do understand the effects it has on the environment. Stopping the sales of gas-powered vehicles as a whole will significantly reduce a large amount of the carbon footprint in the United States. This will also help with the limited amount of petroleum in the world to produce gas out of anyway.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1603_B",
+	"responseid1" : "R_3RykDkP4C0Ac0NP",
+	"name_arg2" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1458_A",
+	"responseid2" : "R_2UbwEMvI1aR7rAB",
+	"name_arg3" : "I support the proposal to end the sale of new gas-powered cars and trucks by 2035. This is a crucial step in addressing climate change, as the transportation sector is a major contributor to greenhouse gas emissions. By promoting electric vehicles (EVs), we can significantly reduce carbon emissions, aligning with global efforts to combat climate change and limit temperature rise.<br><br>The transition to electric vehicles also presents economic opportunities. It can stimulate innovation, create jobs in the clean energy sector, and position the United States as a leader in the EV industry. The public health benefits are also significant, as it will lead to improved air quality, reducing health issues caused by vehicle emissions.<br><br>Ending the sale of gas-powered vehicles by 2035 is an approach that addresses climate change, fosters economic growth, and improves public health.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1721_B",
+	"responseid3" : "R_zc0ZhPjsrRHdEad",
+	"name_arg4" : "Providing incentives for companies to begin developing and manufacturing green vehicles as opposed to gas powered ones would likely make these environmentally friendly cars more affordable, which is a big accessibility barrier to green vehicles. Decreasing the number of gas powered vehicles on the road would be an important step toward lowering carbon emissions, which is an important consideration for the future of our country.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1265_B",
+	"responseid4" : "R_vZIjnJHvAE2SklH"
+}

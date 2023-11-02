@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Carbon emissions are increasing exponentially year to year, and obviously there is no real incentive besides personal value for a clean environment to buy an electric car that is most likely more expensive and more inaccessible than a regular car. If the government could incentivize citizens to buy electric cars this would benefit the greater society, while making the resource more accessible.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1458_A",
+	"responseid1" : "R_2UbwEMvI1aR7rAB",
+	"name_arg2" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1023_B",
+	"responseid2" : "R_DBsoBjlQ6GPgv8B",
+	"name_arg3" : "I favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035. I favor this because I think the health of our environment should be considered extremely important and a very high priority at this point in time because of the damage that has already been done. I think that shifting from gas powered cars to electric cars is a shift that does not really negatively effect anyone so therefore it is a good place to start mending the damage done to the environment.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1271_B",
+	"responseid3" : "R_2ruNn3wzHwfvntp",
+	"name_arg4" : "I feel that totaling ending the sale of regular cars would anger a lot of people who love the history of cars. I know people that work on old cars for fun. I think green cars would help the environment and increasing the choices for green cars should be done. But I don't think people should not be allowed to buy gas powered cars.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1063_B",
+	"responseid4" : "R_9QY3pueoFffDAMV"
+}

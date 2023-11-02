@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035. I favor this because I think the health of our environment should be considered extremely important and a very high priority at this point in time because of the damage that has already been done. I think that shifting from gas powered cars to electric cars is a shift that does not really negatively effect anyone so therefore it is a good place to start mending the damage done to the environment.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1271_B",
+	"responseid1" : "R_2ruNn3wzHwfvntp",
+	"name_arg2" : "I think that there are several prominent studies showing the effect of emissions from cars on the climate crisis. One of the major hurdles in this process of slowing the climate crisis is that car companies are not incentivized to produce these cars. If we can show that there is something in it for the car companies, we can take a proactive step into reversing the climate crisis.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1151_B",
+	"responseid2" : "R_2CEcBYbQ9lXPIsV",
+	"name_arg3" : "While the climate problem needs to be addressed, ending the sale of new gas-powered cars and trucks would negatively impact the economy. The transition would be to abrupt and \"gas-powered\" vehicles can include hybrid vehicles, which have reduced emissions. Instead, I feel the movement away from gas should be more gradual, addressing the climate problem without strongly affecting industry.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1201_B",
+	"responseid3" : "R_3PM5XwMJoMsADbZ",
+	"name_arg4" : "I understand that as a nation, we are moving towards more advanced technology, like electric cars and such, however completely ending the sale of gas-powered cars and trucks would make it difficult for individuals, particularly those with low income, to purchase electric vehicles. Unless there's a proper system for finances set up for individuals in that category, I don't think it would be the most efficient policy.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1565_B",
+	"responseid4" : "R_1EWgyY4ZDVzZ2v3"
+}

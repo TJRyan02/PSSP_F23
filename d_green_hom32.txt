@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "We treat corporations as people in a legal and moral sense as a nation and have forgotten that we are all united by the ideals of freedom and human rights. If we destroy the planet while drunk on oil, we will have no one else left to appreciate said freedoms.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1062_A",
+	"responseid1" : "R_Zh1Tu6GzmWDGf1D",
+	"name_arg2" : "Gasoline releases an abundance of fossil fuels which contribute significantly to climate change and global warming. Although many of us may not feel the impacts yet, we will soon if we continue to produce emissions at this rate. Changes in how cars are powered makes little difference in the use by consumers (especially if subsidies keep the prices similar) yet will have significant, positive, long term effects on our planet and therefore our qualities of life.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1514_A",
+	"responseid2" : "R_1oce2SGAl6olyKY",
+	"name_arg3" : "I favor the sale of gas-powered cars and trucks ending entirely by 2035 because of carbon emissions. Most carbon emissions come from corporations and they do a lot of travel by land. Think of Amazon and how fast they get your packages to you, if all of those trucks are powered by gas right now they are releasing so many emissions into the atmosphere and have no intention or method of taking them out. Switching to another form of transportation, like electric, would be a preventative measure that would keep these corporations in check.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1600_A",
+	"responseid3" : "R_2ROJRsV7oGUt188",
+	"name_arg4" : "Though I don't know much about the legal matters or the policies of making this change, I do understand the effects it has on the environment. Stopping the sales of gas-powered vehicles as a whole will significantly reduce a large amount of the carbon footprint in the United States. This will also help with the limited amount of petroleum in the world to produce gas out of anyway.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1603_B",
+	"responseid4" : "R_3RykDkP4C0Ac0NP"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Climate change and global warming is a very real and prevalent issue that is growing within the United States and the world. Changing the composition of gas-powered cars will allow for a monumental decrease in the amount of fossil fuels emitted from cars and other automobiles. With this change, global climate change will not completely be reversed, but this will certainly help to lessen its effects that are becoming more prominent in the world.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1574_A",
+	"responseid1" : "R_Rx0iXC8GloWdsvn",
+	"name_arg2" : "Automobiles are a leading cause of pollution and contamination impacting the Earth. If it became standard following the year 2035 that no vehicles would be sold that operated on gas-power, it wouldn't be a choice people would have to make when purchasing a vehicle. Each vehicle would already be electric-based.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1242_A",
+	"responseid2" : "R_ehNlx7oPHhci7cJ",
+	"name_arg3" : "Supporting the phasing out of new gas-powered car engines by 2030 is a proactive step in addressing critical environmental and societal challenges. First and foremost, the transportation sector is a significant contributor to greenhouse gas emissions, which are the leading cause of climate change. Transitioning to electric vehicles by 2030 would substantially reduce carbon emissions, helping to mitigate the catastrophic effects of global warming.<br><br>Moreover, the shift to EVs can enhance air quality in urban areas. Gasoline and diesel engines emit harmful pollutants that jeopardize public health, causing respiratory problems and premature deaths. By replacing these engines with clean and efficient electric propulsion, we can reduce smog, lower healthcare costs, and improve the quality of life for millions.<br><br>The economic rationale for this transition is compelling as well. EV technology is rapidly advancing, and the manufacturing of EVs and their components has the potential to create jobs and stimulate economic growth. The market for electric vehicles is also expanding, offering exciting opportunities for innovation and entrepreneurship.<br><br>Additionally, ending the production of new gas-powered car engines by 2030 can reduce our dependence on fossil fuels, contributing to energy security and decreasing the volatility of oil prices. It aligns with broader energy transition goals, ensuring that we invest in cleaner and more sustainable sources of power.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1459_B",
+	"responseid3" : "R_3Kuroq9ogzGPCon",
+	"name_arg4" : "There is a reason people buy Tesla's now and why the government incentivizes people buying electric vehicles in general. Electricity is cheaper than gas, in the long run. The average EV in an average scenario costs about half as much to drive per mile as does an average gas car in an average scenario. So not only is it more environmentally friendly, it is economically efficient. It is a win-win if we were to get rid of gas cars and switched completely to EVs. Especially considering the level of technology in current EVs, they are only going to get more efficient in the future.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1275_B",
+	"responseid4" : "R_1P02jwaCq21f34O"
+}

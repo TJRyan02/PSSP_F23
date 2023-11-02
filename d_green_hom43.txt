@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Automobiles are a leading cause of pollution and contamination impacting the Earth. If it became standard following the year 2035 that no vehicles would be sold that operated on gas-power, it wouldn't be a choice people would have to make when purchasing a vehicle. Each vehicle would already be electric-based.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1242_A",
+	"responseid1" : "R_ehNlx7oPHhci7cJ",
+	"name_arg2" : "It is common knowledge that carbon emissions contribute to climate change. Climate change will drastically alter the lives of children for decades to come, especially in the developing world but not excluding the United States. Gas-powered cars and trucks directly contribute to the destruction of the natural environment where children, and the adults of the future, can play and explore through carbon emissions. The elimination or limitation of these harmful byproducts will increase the well-being of children around the world, and create a world worth living in.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1529_B",
+	"responseid2" : "R_PNTtY3utdG5ozst",
+	"name_arg3" : "Giving people incentives, or nudges, to buy green cars is a way in which we can reduce global warming, as the US is one of the countries with the largest number of cars per citizen. It is a small way of contributing to global warming, as at the end of the day the largest contributors are large corporations.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1197_B",
+	"responseid3" : "R_1FnpSUUm0LDRPCl",
+	"name_arg4" : "Supporting the phasing out of new gas-powered car engines by 2030 is a proactive step in addressing critical environmental and societal challenges. First and foremost, the transportation sector is a significant contributor to greenhouse gas emissions, which are the leading cause of climate change. Transitioning to electric vehicles by 2030 would substantially reduce carbon emissions, helping to mitigate the catastrophic effects of global warming.<br><br>Moreover, the shift to EVs can enhance air quality in urban areas. Gasoline and diesel engines emit harmful pollutants that jeopardize public health, causing respiratory problems and premature deaths. By replacing these engines with clean and efficient electric propulsion, we can reduce smog, lower healthcare costs, and improve the quality of life for millions.<br><br>The economic rationale for this transition is compelling as well. EV technology is rapidly advancing, and the manufacturing of EVs and their components has the potential to create jobs and stimulate economic growth. The market for electric vehicles is also expanding, offering exciting opportunities for innovation and entrepreneurship.<br><br>Additionally, ending the production of new gas-powered car engines by 2030 can reduce our dependence on fossil fuels, contributing to energy security and decreasing the volatility of oil prices. It aligns with broader energy transition goals, ensuring that we invest in cleaner and more sustainable sources of power.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1459_B",
+	"responseid4" : "R_3Kuroq9ogzGPCon"
+}

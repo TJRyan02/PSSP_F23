@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "2035 is just over ten years away and to entirely end the sale of gas-powered cars and trucks would leave a large group of people without easily accessible and reliable transportation. The alternative to gas-powered cars is likely electric vehicles which are much more expensive in comparison and again, are not inclusive to the socioeconomic demographic in the United States.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1371_B",
+	"responseid1" : "R_vitWtWeYMB9wW6R",
+	"name_arg2" : "Ending the production of gas-powered cars and trucks would lead to a more sustainable environment. It would limit the amount of carbon pollution in the air, leading to the destruction of the ozone layer, and thus allow the earth to remain protected for future generations. Also, electric cars are a new business. It would increase the U.S. economy and allow for new jobs to emerge as these cars become more widespread in popularity.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1129_B",
+	"responseid2" : "R_22Sacfv7c0VKpSv",
+	"name_arg3" : "I favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035. I favor this because I think the health of our environment should be considered extremely important and a very high priority at this point in time because of the damage that has already been done. I think that shifting from gas powered cars to electric cars is a shift that does not really negatively effect anyone so therefore it is a good place to start mending the damage done to the environment.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1271_B",
+	"responseid3" : "R_2ruNn3wzHwfvntp",
+	"name_arg4" : "Although the cost of completely renovating the automotive industry is high, I believe that any step toward a more sustainable future should be put in place as soon as possible. I acknowledge that \"green\" vehicles do not come without their own downsides and won't entirely be the solution to the emission rates of gas vehicles and their impact on their climate. I also don't believe the year 2035 is reasonable for getting all gas vehicles off the market. However, I do believe policy is needed to keep the sustainability of our world flourishing. Baby steps are how we will address preventing any significant changes in our climate. Beginning any form of policy that aims to keep our environmental impact and our industry stable is how we will begin to form a more stable world. It won't happen overnight, but it still needs to happen.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1326_A",
+	"responseid4" : "R_1RgGMFzLIhlnfq1"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although battery powered cars and trucks have a negative environmental impact when the batteries die, it prevents carbon emissions going into the atmosphere. Currently, global warming is impacting cities worldwide, with some coastal cities being submerged underwater, destroying homes and places for people to live. Additionally, the drastic weather changes is also affected by global warming. In our current situation, it's in our best interest to pursue battery-powered cars than continue to emit carbon into the atmosphere.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1703_B",
+	"responseid1" : "R_e8zmTDOkhnhsXoR",
+	"name_arg2" : "Moving towards solely electric vehicles is imperative for reducing carbon emissions and improving our air quality. This promotes sustainability, reduces dependence on fossil fuels, and would be a catalyst for the adoption of cleaner technologies. While there are challenges to consider, like infrastructure development, it aligns with environmental goals and technological advancements, driving more sustainable future.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1152_A",
+	"responseid2" : "R_9mlWe7zazLsVRV7",
+	"name_arg3" : "Gasoline releases an abundance of fossil fuels which contribute significantly to climate change and global warming. Although many of us may not feel the impacts yet, we will soon if we continue to produce emissions at this rate. Changes in how cars are powered makes little difference in the use by consumers (especially if subsidies keep the prices similar) yet will have significant, positive, long term effects on our planet and therefore our qualities of life.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1514_A",
+	"responseid3" : "R_1oce2SGAl6olyKY",
+	"name_arg4" : "It is common knowledge that carbon emissions contribute to climate change. Climate change will drastically alter the lives of children for decades to come, especially in the developing world but not excluding the United States. Gas-powered cars and trucks directly contribute to the destruction of the natural environment where children, and the adults of the future, can play and explore through carbon emissions. The elimination or limitation of these harmful byproducts will increase the well-being of children around the world, and create a world worth living in.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1529_B",
+	"responseid4" : "R_PNTtY3utdG5ozst"
+}

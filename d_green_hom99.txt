@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Although battery powered cars and trucks have a negative environmental impact when the batteries die, it prevents carbon emissions going into the atmosphere. Currently, global warming is impacting cities worldwide, with some coastal cities being submerged underwater, destroying homes and places for people to live. Additionally, the drastic weather changes is also affected by global warming. In our current situation, it's in our best interest to pursue battery-powered cars than continue to emit carbon into the atmosphere.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1703_B",
+	"responseid1" : "R_e8zmTDOkhnhsXoR",
+	"name_arg2" : "I would favor the proposal where the sale of new gas-powered cars and trucks would end entirely by 2035 because we as Americans need to cut down on carbon emissions. Ending gas powered car sales will start the beginning of a greener environment for our country, and eventuallly gas-powered cars will phase out all together",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1020_A",
+	"responseid2" : "R_3m50X6bllaDD1GC",
+	"name_arg3" : "2035 is just over ten years away and to entirely end the sale of gas-powered cars and trucks would leave a large group of people without easily accessible and reliable transportation. The alternative to gas-powered cars is likely electric vehicles which are much more expensive in comparison and again, are not inclusive to the socioeconomic demographic in the United States.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1371_B",
+	"responseid3" : "R_vitWtWeYMB9wW6R",
+	"name_arg4" : "I put a 4 for that answer because it is unfeasible to stop the sale of gas-powered cars by 2035. I think it would be more feasible to stop the production of gas-powered cars by 2035, however completely stopping people from selling used cars or newly produced gas-powered cars seems unlikely.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1593_B",
+	"responseid4" : "R_2WI3M9RCKrRcOtn"
+}

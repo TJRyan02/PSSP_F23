@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I think that there are several prominent studies showing the effect of emissions from cars on the climate crisis. One of the major hurdles in this process of slowing the climate crisis is that car companies are not incentivized to produce these cars. If we can show that there is something in it for the car companies, we can take a proactive step into reversing the climate crisis.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1151_B",
+	"responseid1" : "R_2CEcBYbQ9lXPIsV",
+	"name_arg2" : "While the climate problem needs to be addressed, ending the sale of new gas-powered cars and trucks would negatively impact the economy. The transition would be to abrupt and \"gas-powered\" vehicles can include hybrid vehicles, which have reduced emissions. Instead, I feel the movement away from gas should be more gradual, addressing the climate problem without strongly affecting industry.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1201_B",
+	"responseid2" : "R_3PM5XwMJoMsADbZ",
+	"name_arg3" : "I am in favor of a proposal to end the sale of new gas-powered cars by 2035. I strongly believe that our government should be taking more drastic measures to halt climate change. Although little things like promoting reusable materials instead of trash and more small environmentally friendly businesses are helpful, they are not enough. What we really need to focus on to make a change is big corporations, and forcing the car industry to become more environmentally friendly would make a huge change. I am only moderately in favor of this proposal, however, because I know that financially, it would be very challenging and require a lot of resources to charge the cars.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1026_A",
+	"responseid3" : "R_1pMOHypxvD38maY",
+	"name_arg4" : "I feel that totaling ending the sale of regular cars would anger a lot of people who love the history of cars. I know people that work on old cars for fun. I think green cars would help the environment and increasing the choices for green cars should be done. But I don't think people should not be allowed to buy gas powered cars.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1063_B",
+	"responseid4" : "R_9QY3pueoFffDAMV"
+}

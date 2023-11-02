@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "My reason for this opinion is that Russia has the power to send a nuclear weapon across the united states that would knock out our power grid. If this were to happen electric cars would be completely useless. However, gas cars would still be able to function for a longer amount of time, especially since you can pull gas from other cars and other resources.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1700_A",
+	"responseid1" : "R_2rI8ZYcICVYQFBd",
+	"name_arg2" : "I feel that totaling ending the sale of regular cars would anger a lot of people who love the history of cars. I know people that work on old cars for fun. I think green cars would help the environment and increasing the choices for green cars should be done. But I don't think people should not be allowed to buy gas powered cars.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1063_B",
+	"responseid2" : "R_9QY3pueoFffDAMV",
+	"name_arg3" : "I favor the sale of gas-powered cars and trucks ending entirely by 2035 because of carbon emissions. Most carbon emissions come from corporations and they do a lot of travel by land. Think of Amazon and how fast they get your packages to you, if all of those trucks are powered by gas right now they are releasing so many emissions into the atmosphere and have no intention or method of taking them out. Switching to another form of transportation, like electric, would be a preventative measure that would keep these corporations in check.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1600_A",
+	"responseid3" : "R_2ROJRsV7oGUt188",
+	"name_arg4" : "Global warming is real, and it is headed towards us nonstop. It is important that we have electric powered vehicles on the road to stop putting the gas and bad carbon emissions in the air. Humans are constant polluters of the environment, and it starts with the cars and trucks we drive everyday.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1023_B",
+	"responseid4" : "R_DBsoBjlQ6GPgv8B"
+}

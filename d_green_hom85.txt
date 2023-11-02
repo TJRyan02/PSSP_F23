@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Providing incentives for companies to begin developing and manufacturing green vehicles as opposed to gas powered ones would likely make these environmentally friendly cars more affordable, which is a big accessibility barrier to green vehicles. Decreasing the number of gas powered vehicles on the road would be an important step toward lowering carbon emissions, which is an important consideration for the future of our country.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1265_B",
+	"responseid1" : "R_vZIjnJHvAE2SklH",
+	"name_arg2" : "One of the main reasons is the urgency to address climate change and reduce greenhouse gas emissions. Transitioning to electric vehicles can help decrease carbon emissions and improve air quality. Additionally, advancements in electric vehicle technology have made them more accessible and practical for everyday use. The shift towards electric vehicles also promotes innovation and investment in renewable energy sources. Ultimately, the goal is to create a more sustainable and environmentally friendly transportation system.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1032_A",
+	"responseid2" : "R_2zdvL0atShg1Ntp",
+	"name_arg3" : "I think that there are several prominent studies showing the effect of emissions from cars on the climate crisis. One of the major hurdles in this process of slowing the climate crisis is that car companies are not incentivized to produce these cars. If we can show that there is something in it for the car companies, we can take a proactive step into reversing the climate crisis.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1151_B",
+	"responseid3" : "R_2CEcBYbQ9lXPIsV",
+	"name_arg4" : "I favor the proposal for ending gas-powered cars by 2035 mainly because it would help the environment. As we all know, climate change is very real and very apparent with temperatures increasing more and more each year. Although some may argue that it is too far gone for us to make a difference, I do think it is still important to try and reduce how fast climate change is happening. The proposal could be similar to Obama's CARS (Car Allowance Rebate System), which would make it easier for Americans to afford the new cars if price is an issue. For the most part, Obama's program was successful, so I believe the new proposal should also go relatively smoothly.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1586_A",
+	"responseid4" : "R_1KpeBRkmr5iLGcO"
+}

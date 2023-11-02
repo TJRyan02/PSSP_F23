@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I favor the idea of removing gas-powered cars and trucks by 2035 because climate change is a real thing. Carbon emissions by cars are a direct contributor. To help save this world, we should bring down our carbon footprint by having environmentally safe vehicles. other countries have found this successful.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1014_A",
+	"responseid1" : "R_ddpgz8qqmAOmnfj",
+	"name_arg2" : "I think an important step in the transition towards more sustainable technologies is stopping the production of older and less sustainable technology. Those who have the money to purchase brand-new cars, should be presented with the choice to either purchase an older model or buy a new electric car.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1762_A",
+	"responseid2" : "R_1lnuUsxNXtLDm4j",
+	"name_arg3" : "I support the proposal to end the sale of new gas-powered cars and trucks by 2035. This is a crucial step in addressing climate change, as the transportation sector is a major contributor to greenhouse gas emissions. By promoting electric vehicles (EVs), we can significantly reduce carbon emissions, aligning with global efforts to combat climate change and limit temperature rise.<br><br>The transition to electric vehicles also presents economic opportunities. It can stimulate innovation, create jobs in the clean energy sector, and position the United States as a leader in the EV industry. The public health benefits are also significant, as it will lead to improved air quality, reducing health issues caused by vehicle emissions.<br><br>Ending the sale of gas-powered vehicles by 2035 is an approach that addresses climate change, fosters economic growth, and improves public health.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1721_B",
+	"responseid3" : "R_zc0ZhPjsrRHdEad",
+	"name_arg4" : "We treat corporations as people in a legal and moral sense as a nation and have forgotten that we are all united by the ideals of freedom and human rights. If we destroy the planet while drunk on oil, we will have no one else left to appreciate said freedoms.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1062_A",
+	"responseid4" : "R_Zh1Tu6GzmWDGf1D"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I put a 4 for that answer because it is unfeasible to stop the sale of gas-powered cars by 2035. I think it would be more feasible to stop the production of gas-powered cars by 2035, however completely stopping people from selling used cars or newly produced gas-powered cars seems unlikely.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1593_B",
+	"responseid1" : "R_2WI3M9RCKrRcOtn",
+	"name_arg2" : "I favor the sale of gas-powered cars and trucks ending entirely by 2035 because of carbon emissions. Most carbon emissions come from corporations and they do a lot of travel by land. Think of Amazon and how fast they get your packages to you, if all of those trucks are powered by gas right now they are releasing so many emissions into the atmosphere and have no intention or method of taking them out. Switching to another form of transportation, like electric, would be a preventative measure that would keep these corporations in check.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1600_A",
+	"responseid2" : "R_2ROJRsV7oGUt188",
+	"name_arg3" : "I support the proposal to end the sale of new gas-powered cars and trucks by 2035. This is a crucial step in addressing climate change, as the transportation sector is a major contributor to greenhouse gas emissions. By promoting electric vehicles (EVs), we can significantly reduce carbon emissions, aligning with global efforts to combat climate change and limit temperature rise.<br><br>The transition to electric vehicles also presents economic opportunities. It can stimulate innovation, create jobs in the clean energy sector, and position the United States as a leader in the EV industry. The public health benefits are also significant, as it will lead to improved air quality, reducing health issues caused by vehicle emissions.<br><br>Ending the sale of gas-powered vehicles by 2035 is an approach that addresses climate change, fosters economic growth, and improves public health.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1721_B",
+	"responseid3" : "R_zc0ZhPjsrRHdEad",
+	"name_arg4" : "Moving towards solely electric vehicles is imperative for reducing carbon emissions and improving our air quality. This promotes sustainability, reduces dependence on fossil fuels, and would be a catalyst for the adoption of cleaner technologies. While there are challenges to consider, like infrastructure development, it aligns with environmental goals and technological advancements, driving more sustainable future.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1152_A",
+	"responseid4" : "R_9mlWe7zazLsVRV7"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "Ending the use of gas-powered cars by 2035 is an important step we should take as it will help to reduce our greenhouse gas emissions and control the effects of climate change. Additionally, electric/green cars are reported to be easier to operate and safer overall as vehicles. Therefore, not only are they safer for the environment, but are also safer for the driver and act as a means of prevention against crashing.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1664_A",
+	"responseid1" : "R_1ps2TnFt7MDnhmr",
+	"name_arg2" : "Although battery powered cars and trucks have a negative environmental impact when the batteries die, it prevents carbon emissions going into the atmosphere. Currently, global warming is impacting cities worldwide, with some coastal cities being submerged underwater, destroying homes and places for people to live. Additionally, the drastic weather changes is also affected by global warming. In our current situation, it's in our best interest to pursue battery-powered cars than continue to emit carbon into the atmosphere.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1703_B",
+	"responseid2" : "R_e8zmTDOkhnhsXoR",
+	"name_arg3" : "I believe that our government needs to take extreme actions to combat climate change. Currently I feel that the actions being taken are not enough. We need to focus on green powered vehicles because they can drastically limit the impact automobiles are having on pollution and they will limit the need for natural gas consumption.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1391_B",
+	"responseid3" : "R_1LYbt9ob44kkjqw",
+	"name_arg4" : "I favor the idea of removing gas-powered cars and trucks by 2035 because climate change is a real thing. Carbon emissions by cars are a direct contributor. To help save this world, we should bring down our carbon footprint by having environmentally safe vehicles. other countries have found this successful.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1014_A",
+	"responseid4" : "R_ddpgz8qqmAOmnfj"
+}

@@ -1,0 +1,18 @@
+{
+	"name_arg1" : "I understand that as a nation, we are moving towards more advanced technology, like electric cars and such, however completely ending the sale of gas-powered cars and trucks would make it difficult for individuals, particularly those with low income, to purchase electric vehicles. Unless there's a proper system for finances set up for individuals in that category, I don't think it would be the most efficient policy.",
+	"party_id1" : "Democrat",
+	"unique1" : "2023_S_1565_B",
+	"responseid1" : "R_1EWgyY4ZDVzZ2v3",
+	"name_arg2" : "I support slowing down of sales of gas cars, not fully selling them. In countries such as Norway, they place heavy taxes on gas and gas powered vehicles allowing people to make their own decisions when buying a car, and not being forced to choose an electric car. I also think that we do not have the infrastructure to support a fully electric car world.",
+	"party_id2" : "Democrat",
+	"unique2" : "2023_S_1434_A",
+	"responseid2" : "R_3QE2tInTPcT6EVR",
+	"name_arg3" : "I think an important step in the transition towards more sustainable technologies is stopping the production of older and less sustainable technology. Those who have the money to purchase brand-new cars, should be presented with the choice to either purchase an older model or buy a new electric car.",
+	"party_id3" : "Democrat",
+	"unique3" : "2023_S_1762_A",
+	"responseid3" : "R_1lnuUsxNXtLDm4j",
+	"name_arg4" : "I believe that our government needs to take extreme actions to combat climate change. Currently I feel that the actions being taken are not enough. We need to focus on green powered vehicles because they can drastically limit the impact automobiles are having on pollution and they will limit the need for natural gas consumption.",
+	"party_id4" : "Democrat",
+	"unique4" : "2023_S_1391_B",
+	"responseid4" : "R_1LYbt9ob44kkjqw"
+}
